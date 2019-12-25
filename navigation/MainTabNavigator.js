@@ -1,22 +1,11 @@
 import React, { Component } from 'react';
-import { Platform, StyleSheet, Text, View, StatusBar } from 'react-native';
-import AppNavigator from './navigation/AppNavigator';
-/*
+import { Platform, StyleSheet, Text, View } from 'react-native';
+
 const instructions = Platform.select({
-  ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
+  ios: 'hey bitch\n' + 'Cmd+D or shake for dev menu',
   android: 'Double tap R on your keyboard to reload,\n' + 'Shake or press menu button for dev menu',
 });
-*/
 
-export default function App(props) {
-  return (
-    <View style={styles.container}>
-      {Platform.OS === 'ios' && <StatusBar barStyle="default" />}
-      <AppNavigator />
-    </View>
-  );
-}
-/*
 export default class App extends Component {
   render() {
     return (
@@ -45,13 +34,5 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: '#333333',
     marginBottom: 5,
-  },
-});
-*/
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
   },
 });
