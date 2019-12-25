@@ -4,6 +4,7 @@ import { createStackNavigator } from 'react-navigation-stack';
 import { createBottomTabNavigator } from 'react-navigation-tabs';
 
 import HomeScreen from '../screens/HomeScreen';
+import SettingsScreen from '../screens/SettingsScreen';
 
 
 const config = Platform.select({
@@ -23,8 +24,23 @@ HomeStack.navigationOptions = {
 
 HomeStack.path = '';
 
+
+const SettingsStack = createStackNavigator(
+  {
+    Settings: SettingsScreen,
+  },
+  config
+);
+SettingsStack.navigationOptions = {
+  tabBarLabel: 'Settings'
+};
+
+SettingsStack.path = '';
+
+
 const tabNavigator = createBottomTabNavigator({
   HomeStack,
+  SettingsStack
 });
 
 tabNavigator.path = '';
