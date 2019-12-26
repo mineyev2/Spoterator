@@ -3,6 +3,8 @@ import { Platform } from 'react-native';
 import { createStackNavigator } from 'react-navigation-stack';
 import { createBottomTabNavigator } from 'react-navigation-tabs';
 
+import Ionicons from 'react-native-vector-icons/Ionicons';
+
 import HomeScreen from '../screens/HomeScreen';
 import SettingsScreen from '../screens/SettingsScreen';
 
@@ -19,7 +21,10 @@ const HomeStack = createStackNavigator(
   config
 );
 HomeStack.navigationOptions = {
-  tabBarLabel: 'Home'
+  tabBarLabel: 'Home',
+  tabBarIcon:({tintColor})=>(  
+    <Ionicons name="ios-home" color={tintColor} size={25}/>  
+) 
 };
 
 HomeStack.path = '';
@@ -32,7 +37,10 @@ const SettingsStack = createStackNavigator(
   config
 );
 SettingsStack.navigationOptions = {
-  tabBarLabel: 'Settings'
+  tabBarLabel: 'Settings',
+  tabBarIcon: ({ tintColor }) => (
+    <Ionicons name={Platform.OS === 'ios' ? 'ios-options' : 'md-options'} color={tintColor} size={25}/>
+  ),
 };
 
 SettingsStack.path = '';
@@ -40,7 +48,7 @@ SettingsStack.path = '';
 
 const tabNavigator = createBottomTabNavigator({
   HomeStack,
-  SettingsStack
+  SettingsStack,
 });
 
 tabNavigator.path = '';
