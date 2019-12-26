@@ -36,24 +36,15 @@ const slides = [
 ];
 
 export default class App extends Component {
-  /*
-  return (
-    
-    <View style={styles.container}>
-      {Platform.OS === 'ios' && <StatusBar barStyle="default" />}
-      <AppNavigator />
-    </View>
-  );
-  */
+  //for some reason this.state doesn't work here
   state = {
     showRealApp: false
   }
-  //let pressedDone = false;
+
   _onDone = () => {
     // User finished the introduction. Show real app through
     // navigation or simply by controlling state
     this.setState({ showRealApp: true} )
-    //console.log("pressed done equals", pressedDone);
   }
   render() {
     if (this.state.showRealApp) {
