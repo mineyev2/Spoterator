@@ -3,8 +3,6 @@ import { Platform } from 'react-native';
 import { createStackNavigator } from 'react-navigation-stack';
 import { createBottomTabNavigator } from 'react-navigation-tabs';
 
-import Ionicons from 'react-native-vector-icons/Ionicons';
-
 import HomeScreen from '../screens/HomeScreen';
 import SettingsScreen from '../screens/SettingsScreen';
 import { create } from 'react-test-renderer';
@@ -23,10 +21,14 @@ const HomeStack = createStackNavigator(
   config
 );
 HomeStack.navigationOptions = {
+<<<<<<< HEAD
   tabBarLabel: 'Home',
   tabBarIcon:({tintColor})=>(  
     <Ionicons name={Platform.OS === 'ios' ? 'ios-home' : 'md-home'} color={tintColor} size={25}/>  
 ) 
+=======
+  tabBarLabel: 'Home'
+>>>>>>> parent of 111888ff... added icons to the bottomtabnavigator
 };
 
 HomeStack.path = '';
@@ -53,10 +55,7 @@ const SettingsStack = createStackNavigator(
   config
 );
 SettingsStack.navigationOptions = {
-  tabBarLabel: 'Settings',
-  tabBarIcon: ({ tintColor }) => (
-    <Ionicons name={Platform.OS === 'ios' ? 'ios-options' : 'md-options'} color={tintColor} size={25}/>
-  ),
+  tabBarLabel: 'Settings'
 };
 
 SettingsStack.path = '';
@@ -64,8 +63,12 @@ SettingsStack.path = '';
 
 const tabNavigator = createBottomTabNavigator({
   HomeStack,
+<<<<<<< HEAD
   CreateStack,
   SettingsStack,
+=======
+  SettingsStack
+>>>>>>> parent of 111888ff... added icons to the bottomtabnavigator
 });
 
 tabNavigator.path = '';

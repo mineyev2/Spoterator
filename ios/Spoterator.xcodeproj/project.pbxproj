@@ -15,6 +15,7 @@
 		14079A3366FF49C7AB4BEF14 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAAE6ABE3CB2410A9D4B4930 /* Zocial.ttf */; };
 		1BF8B65AA35440D59B6AF2DF /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB1039F4980C42FFBE778A45 /* Entypo.ttf */; };
 		3DE4DAD41476765101945408 /* libPods-Spoterator.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D43FF9D506E70904424FA7E9 /* libPods-Spoterator.a */; };
+<<<<<<< HEAD
 		3F7C878E9FD04AA7BED90E1B /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7295FEA5F8004BDDBBB2E1FC /* Fontisto.ttf */; };
 		55B38C8967EA4A3CA2DBBF03 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3C9552EB95AB463F8942147A /* Foundation.ttf */; };
 		60E58D0625104BB5A850F2E4 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 79C744577D8D48488A92AF89 /* FontAwesome5_Brands.ttf */; };
@@ -28,6 +29,8 @@
 		EAA938D9206A4294BBE41EDB /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4A01A773125F4753BC117082 /* FontAwesome5_Regular.ttf */; };
 		ECACB51A76644AC98CF4B3AA /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B84939CD5A494EBEA925738E /* MaterialCommunityIcons.ttf */; };
 		EFBC79C82AF643F39479CA91 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF7C95E7AB48448DB42D6F24 /* Ionicons.ttf */; };
+=======
+>>>>>>> parent of 111888ff... added icons to the bottomtabnavigator
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,7 +63,10 @@
 		EAAE6ABE3CB2410A9D4B4930 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+<<<<<<< HEAD
 		F862F9D012174A19B50B1BDA /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+=======
+>>>>>>> parent of 111888ff... added icons to the bottomtabnavigator
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,7 +131,6 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				72E5486571395D51695C2A02 /* Pods */,
-				E6404479B1D0400BB5058063 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -140,6 +145,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		E6404479B1D0400BB5058063 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -164,6 +170,8 @@
 			path = "";
 			sourceTree = "<group>";
 		};
+=======
+>>>>>>> parent of 111888ff... added icons to the bottomtabnavigator
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -194,7 +202,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 940;
+				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -228,6 +236,7 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+<<<<<<< HEAD
 				13599F1EFAA248D7860D5405 /* AntDesign.ttf in Resources */,
 				1BF8B65AA35440D59B6AF2DF /* Entypo.ttf in Resources */,
 				90E623A05220482C873AF04B /* EvilIcons.ttf in Resources */,
@@ -244,6 +253,8 @@
 				8AA699503BD24A6B8D5F216E /* Octicons.ttf in Resources */,
 				8D49E9DFB37E476AAB1E211C /* SimpleLineIcons.ttf in Resources */,
 				14079A3366FF49C7AB4BEF14 /* Zocial.ttf in Resources */,
+=======
+>>>>>>> parent of 111888ff... added icons to the bottomtabnavigator
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -41,6 +41,7 @@ target 'Spoterator' do
 
   # Automatically detect installed unimodules
   use_unimodules!
+<<<<<<< HEAD
 
   pod 'RNScreens', :path => '../node_modules/react-native-screens'
 
@@ -48,4 +49,6 @@ target 'Spoterator' do
 
   pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
 
+=======
+>>>>>>> parent of 111888ff... added icons to the bottomtabnavigator
 end
