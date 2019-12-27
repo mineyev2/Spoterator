@@ -10,11 +10,19 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<data>
+<<<<<<< HEAD
 		TTI619LaivLeEfrr39NMad6okiQ=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<data>
 		PAtSVUmU535uN0GgPKcFI/EDJS8=
+=======
+		u7VYY1GAdPdd/WgGSColm5RL3ks=
+		</data>
+		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
+		<data>
+		Tq6cl/IsP0MoNhslGyyNfRfxkV4=
+>>>>>>> master
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -102,22 +110,38 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			TTI619LaivLeEfrr39NMad6okiQ=
 			</data>
 			<key>hash2</key>
 			<data>
 			QjmNF2yGbUigz8UuI/WN2+X07O/vswDW/fZbAvH7T4k=
+=======
+			u7VYY1GAdPdd/WgGSColm5RL3ks=
+			</data>
+			<key>hash2</key>
+			<data>
+			df9TV6gMArLA6OJxh8lQRiaVbFMSKjegHOg8mhChh8Y=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			PAtSVUmU535uN0GgPKcFI/EDJS8=
 			</data>
 			<key>hash2</key>
 			<data>
 			62I6KeHKh3aQcGPMf6sYf4k5qiU8V4kor+4cGWZBT8k=
+=======
+			Tq6cl/IsP0MoNhslGyyNfRfxkV4=
+			</data>
+			<key>hash2</key>
+			<data>
+			k0QEp+YdQdBjq3+sP34olAgALN28f5QXK3vg+YrIPwU=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
