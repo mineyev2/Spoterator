@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View } from 'react-native';
+import ImagePicker from 'react-native-image-picker'
 
 export default function CreateScreen() {
     return (
