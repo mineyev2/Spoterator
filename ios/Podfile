@@ -42,4 +42,10 @@ target 'Spoterator' do
   # Automatically detect installed unimodules
   use_unimodules!
 
+  pod 'RNScreens', :path => '../node_modules/react-native-screens'
+
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
+  pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
+
 end
