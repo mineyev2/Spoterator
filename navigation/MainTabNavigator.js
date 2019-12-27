@@ -50,7 +50,10 @@ const tabNavigator = createBottomTabNavigator({
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   CreateStack,
+=======
+>>>>>>> parent of a24c78bd... made a create screen for the playlist to be created
 =======
 >>>>>>> parent of a24c78bd... made a create screen for the playlist to be created
 =======
