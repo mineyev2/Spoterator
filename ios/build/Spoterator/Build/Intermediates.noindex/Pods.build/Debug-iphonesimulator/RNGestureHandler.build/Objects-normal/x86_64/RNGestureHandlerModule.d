@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerModule.m \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerModule.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
@@ -32,9 +32,9 @@ dependencies: \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerUtils.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerObserverCoordinator.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerState.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerDirection.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerEvents.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerManager.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerButton.h
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerButton.h

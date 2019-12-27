@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerEvents.m \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerEvents.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
@@ -12,4 +12,4 @@ dependencies: \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerState.h
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h

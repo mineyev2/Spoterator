@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerManager.m \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerManager.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
@@ -32,17 +32,17 @@ dependencies: \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTTouchHandler.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTRootContentView.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTView.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerState.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerDirection.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerEvents.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerRegistry.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNRootViewGestureRecognizer.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/Handlers/RNPanHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/Handlers/RNTapHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/Handlers/RNFlingHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/Handlers/RNLongPressHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/Handlers/RNNativeViewHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/Handlers/RNPinchHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/Handlers/RNRotationHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/Handlers/RNForceTouchHandler.h
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerRegistry.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNRootViewGestureRecognizer.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/Handlers/RNPanHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/Handlers/RNTapHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/Handlers/RNFlingHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/Handlers/RNLongPressHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/Handlers/RNPinchHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/Handlers/RNRotationHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/Handlers/RNForceTouchHandler.h

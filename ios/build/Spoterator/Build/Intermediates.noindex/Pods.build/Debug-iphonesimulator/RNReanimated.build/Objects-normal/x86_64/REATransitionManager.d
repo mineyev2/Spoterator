@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Transitioning/REATransitionManager.m \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Transitioning/REATransitionManager.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Transitioning/REATransitionManager.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Transitioning/REATransitionManager.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
@@ -30,7 +30,7 @@ dependencies: \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerObserverCoordinator.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Transitioning/REATransition.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Transitioning/REATransition.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTView.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Transitioning/REATransitionAnimation.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Transitioning/REATransitionValues.h
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Transitioning/REATransitionAnimation.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Transitioning/REATransitionValues.h

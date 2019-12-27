@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/REANodesManager.m \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/REANodesManager.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/REANodesManager.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REANode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/REANodesManager.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REANode.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
@@ -30,25 +30,25 @@ dependencies: \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAPropsNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAStyleNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REATransformNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAValueNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REABlockNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REACondNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAOperatorNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REASetNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/READebugNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAClockNodes.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAJSCallNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REABezierNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAEventNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/REAModule.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAPropsNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAStyleNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REATransformNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAValueNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REABlockNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REACondNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAOperatorNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REASetNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/READebugNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAClockNodes.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAJSCallNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REABezierNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAEventNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/REAModule.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerObserverCoordinator.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerUtils.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAAlwaysNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAConcatNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAParamNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAFunctionNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REACallFuncNode.h
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAAlwaysNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAConcatNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAParamNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAFunctionNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REACallFuncNode.h

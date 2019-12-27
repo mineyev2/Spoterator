@@ -1,10 +1,10 @@
 dependencies: \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandler.m \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandler.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandler.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerState.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerDirection.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/RNGestureHandlerEvents.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
@@ -27,6 +27,6 @@ dependencies: \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNGestureHandler/ios/Handlers/RNNativeViewHandler.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h

@@ -1,10 +1,10 @@
 dependencies: \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAParamNode.m \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAParamNode.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAParamNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAValueNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REANode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/REANodesManager.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAParamNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAValueNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REANode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/REANodesManager.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \

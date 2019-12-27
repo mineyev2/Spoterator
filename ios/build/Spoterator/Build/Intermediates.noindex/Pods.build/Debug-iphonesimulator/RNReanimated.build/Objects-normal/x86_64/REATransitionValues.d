@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Transitioning/REATransitionValues.m \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Transitioning/REATransitionValues.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTView.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
@@ -27,6 +27,6 @@ dependencies: \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Transitioning/REATransition.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Transitioning/REATransitionAnimation.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Transitioning/REATransitionValues.h
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Transitioning/REATransition.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Transitioning/REATransitionAnimation.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Transitioning/REATransitionValues.h

@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAEventNode.m \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAEventNode.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAEventNode.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REANode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAEventNode.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REANode.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
@@ -13,7 +13,7 @@ dependencies: \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/REANodesManager.h \
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/REANodesManager.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
@@ -31,4 +31,4 @@ dependencies: \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
-  /Users/romanmineyev/Spoterator/ios/Pods/RNReanimated/ios/Nodes/REAValueNode.h
+  /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/ios/Nodes/REAValueNode.h
