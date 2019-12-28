@@ -2,7 +2,7 @@ package com.imagepicker.utils;
 
 import android.content.Context;
 import android.content.DialogInterface;
-
+import android.graphics.drawable.ColorDrawable;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;

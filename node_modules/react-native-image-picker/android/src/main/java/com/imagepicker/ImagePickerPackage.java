@@ -13,11 +13,12 @@ import java.util.Collections;
 import java.util.List;
 
 public class ImagePickerPackage implements ReactPackage {
+  public static final int DEFAULT_EXPLAINING_PERMISSION_DIALIOG_THEME = R.style.DefaultExplainingPermissionsTheme;
   private @StyleRes final int dialogThemeId;
 
   public ImagePickerPackage()
   {
-    this.dialogThemeId = ImagePickerModule.DEFAULT_EXPLAINING_PERMISSION_DIALIOG_THEME;
+    this.dialogThemeId = DEFAULT_EXPLAINING_PERMISSION_DIALIOG_THEME;
   }
 
   public ImagePickerPackage(@StyleRes final int dialogThemeId)

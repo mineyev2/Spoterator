@@ -9,8 +9,10 @@ import androidx.appcompat.app.AlertDialog;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.ReadableNativeMap;
 import com.imagepicker.ImagePickerModule;
+import com.imagepicker.R;
 
 import java.lang.ref.WeakReference;
+import java.util.HashMap;
 
 /**
  * Created by rusfearuth on 03.03.17.
