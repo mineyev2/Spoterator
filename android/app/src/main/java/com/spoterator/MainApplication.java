@@ -39,13 +39,15 @@ public class MainApplication extends Application implements ReactApplication {
     @Override
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
+
+          //this part is super fucked up for some reason, so I made some changes and it works now...hopefully no other errors will happen because I did that
           new MainReactPackage(),
-          new ImagePickerPackage(),
-            new RNGestureHandlerPackage(),
-            new ReanimatedPackage(),
+          //new ImagePickerPackage(),
+            //new RNGestureHandlerPackage(),
+            //new ReanimatedPackage(),
           new ReanimatedPackage(),
           new RNGestureHandlerPackage(),
-          new RNScreensPackage(),
+          //new RNScreensPackage(),
           new ModuleRegistryAdapter(mModuleRegistryProvider)
       );
     }
