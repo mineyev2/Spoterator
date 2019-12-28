@@ -952,6 +952,7 @@ layout crop_image_activity
 layout crop_image_view
 layout dev_loading_view
 layout fps_view
+layout list_item
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -1265,6 +1266,7 @@ style CalendarDatePickerDialog
 style CalendarDatePickerStyle
 style ClockTimePickerDialog
 style ClockTimePickerStyle
+style DefaultExplainingPermissionsTheme
 style DialogAnimationFade
 style DialogAnimationSlide
 style Platform_AppCompat
@@ -1522,4 +1524,5 @@ styleable ViewBackgroundHelper android_background backgroundTint backgroundTintM
 styleable ViewStubCompat android_id android_layout android_inflatedId
 xml file_system_provider_paths
 xml image_picker_provider_paths
+xml provider_paths
 xml rn_dev_preferences

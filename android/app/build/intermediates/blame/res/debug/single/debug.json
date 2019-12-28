@@ -1412,6 +1412,10 @@
         "source": "/Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/8d88a81fe2c1bf2104b744f8e94855d5/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "/Users/romanmineyev/Spoterator/android/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Users/romanmineyev/Spoterator/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/layout/list_item.xml"
+    },
+    {
         "merged": "/Users/romanmineyev/Spoterator/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/8d88a81fe2c1bf2104b744f8e94855d5/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
@@ -1570,6 +1574,10 @@
     {
         "merged": "/Users/romanmineyev/Spoterator/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/8d88a81fe2c1bf2104b744f8e94855d5/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/romanmineyev/Spoterator/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/Users/romanmineyev/Spoterator/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
     },
     {
         "merged": "/Users/romanmineyev/Spoterator/android/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Dec 28 12:57:13 CST 2019
+#Sat Dec 28 13:08:54 CST 2019
 70.path=fonts/Feather.ttf
 78.base=/Users/romanmineyev/Spoterator/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 64.base=/Users/romanmineyev/Spoterator/android/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
