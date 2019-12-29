@@ -57,13 +57,15 @@ export default class CreateScreen extends Component {
     render() {
         return (
             <View style={{flex: 1, flexDirection: 'row'}}>
-                <TouchableOpacity onPress={this._onPress} style={{width:150, height:150}}>
-                    <ImageToDisplay default={this.state.avatarSource}/>
+                <TouchableOpacity onPress={this._onPress} style={{flex: 1, flexDirection: "column"}}>
+                    <View>
+                        <ImageToDisplay default={this.state.avatarSource}/>
+                    </View>
                 </TouchableOpacity>
                 <TextInput
-                    style={{height: 30, width:200}}
-                    margin={10}
-                    mode={'outlined'}
+                    style={{flex: 1}}
+                    //margin={10}
+                    mode={'flat'}
                     label='Enter Playlist Name:'
                     value={this.state.text}
                     onChangeText={text => this.setState({ text })}
@@ -99,8 +101,8 @@ instructions: {
 function ImageToDisplay(input) {
     console.log(input);
     if (input.default == null) {
-        return (<Image source={require('../images/default.jpeg')} style={{width:150, height:150}} />);
+        return (<Image source={require('../images/default.jpeg')} style={{ resizeMode: 'stretch'}}/>);
     } else {
-        return(<Image source={input.default} style={{width: 150, height: 150}} />);
+    return(<Image source={input.default} style={{ resizeMode: 'stretch'}}/>);
     }
 }
