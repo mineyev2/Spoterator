@@ -2,14 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Give Spoterator periences permission to access your photos</string>
-	<key>NSCameraUsageDescription</key>
-	<string>Allow Spoterator to use the camera</string>
-	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Give Spoterator periences permission to save photos</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>Allow Spoterator to access your microphone</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -63,42 +55,25 @@
 	</dict>
 	<key>NSCalendarsUsageDescription</key>
 	<string>Allow Spoterator to access your calendar</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow Spoterator to use the camera</string>
 	<key>NSContactsUsageDescription</key>
 	<string>Allow Spoterator experiences to access your contacts</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>Allow Spoterator to use your location</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>Allow Spoterator to use your location</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Allow Spoterator to access your microphone</string>
 	<key>NSMotionUsageDescription</key>
 	<string>Allow Spoterator to access your device's accelerometer</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Give Spoterator periences permission to save photos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Give Spoterator periences permission to access your photos</string>
 	<key>NSRemindersUsageDescription</key>
 	<string>Allow Spoterator to access your reminders</string>
 	<key>UIAppFonts</key>
-	<array>
-		<string>AntDesign.ttf</string>
-		<string>Entypo.ttf</string>
-		<string>EvilIcons.ttf</string>
-		<string>Feather.ttf</string>
-		<string>FontAwesome.ttf</string>
-		<string>FontAwesome5_Brands.ttf</string>
-		<string>FontAwesome5_Regular.ttf</string>
-		<string>FontAwesome5_Solid.ttf</string>
-		<string>Fontisto.ttf</string>
-		<string>Foundation.ttf</string>
-		<string>Ionicons.ttf</string>
-		<string>MaterialCommunityIcons.ttf</string>
-		<string>MaterialIcons.ttf</string>
-		<string>Octicons.ttf</string>
-		<string>SimpleLineIcons.ttf</string>
-		<string>Zocial.ttf</string>
-	</array>
-	<key>NSPhotoLibraryUsageDescription</key>
-    <string>$(PRODUCT_NAME) would like access to your photo gallery</string>
-    <key>NSCameraUsageDescription</key>
-    <string>$(PRODUCT_NAME) would like to use your camera</string>
-    <key>NSPhotoLibraryAddUsageDescription</key>
-    <string>$(PRODUCT_NAME) would like to save photos to your photo gallery</string>
-    <key>NSMicrophoneUsageDescription</key>
-    <string>$(PRODUCT_NAME) would like to use your microphone (for videos)</string>
+	<array/>
 </dict>
 </plist>

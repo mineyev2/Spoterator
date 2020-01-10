@@ -1,108 +1,30 @@
-import React, { Component, useState } from 'react';
-import { Platform, StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
-import { TextInput } from 'react-native-paper';
-//import * as ImagePicker from 'expo-image-picker';
-import { Permissions, Constants } from 'react-native-unimodules';
-import ImagePicker from 'react-native-image-picker';
+import React, { Component } from 'react';
+import { Platform, StyleSheet, Text, View } from 'react-native';
 
-// More info on all the options is below in the API Reference... just some common use cases shown here
-const options = {
-    title: 'Select Avatar',
-    customButtons: [{ name: 'fb', title: 'Choose Photo from Facebook' }],
-    storageOptions: {
-      skipBackup: true,
-      path: 'images',
-    },
-    //no console.log stuff if this is true
-    noData: true
-  };
-
-
-  
-//selectImage();
-
-export default class CreateScreen extends Component {
-
-    //const [value, onChangeText] = React.useState("idk")
-
-    state = {
-        avatarSource: null,
-        text: '',
-    }
-
-    _onPress = () => {
-        console.log("running function")
-        ImagePicker.showImagePicker(options, (response) => {
-            console.log('Response = ', response);
-    
-            if (response.didCancel) {
-                console.log('User cancelled image picker');
-            } else if (response.error) {
-                console.log('ImagePicker Error: ', response.error);
-            } else if (response.customButton) {
-                console.log('User tapped custom button: ', response.customButton);
-            } else {
-                const source = { uri: response.uri };
-    
-                // You can also display the image using data:
-                //const source = { uri: 'data:image/jpeg;base64,' + response.data };
-    
-                this.setState({
-                    avatarSource: source
-                });
-            }
-        });
-    }
-
-    render() {
-        return (
-            <View style={{flex: 1, flexDirection: 'row'}}>
-                <TouchableOpacity onPress={this._onPress} style={{flex: 1, flexDirection: "column"}}>
-                    <View>
-                        <ImageToDisplay default={this.state.avatarSource}/>
-                    </View>
-                </TouchableOpacity>
-                <TextInput
-                    style={{flex: 1}}
-                    //margin={10}
-                    mode={'flat'}
-                    label='Enter Playlist Name:'
-                    value={this.state.text}
-                    onChangeText={text => this.setState({ text })}
-                />
-            </View>
-        );
-        
-        
-    }
-
+export default function CreateScreen() {
+    return (
+        <View style={styles.container}>
+          <Text style={styles.welcome}>This is the CreateScreen</Text>
+          <Text style={styles.instructions}>this is where the user will create their playlists</Text>
+        </View>
+      );
   }
   
-const styles = StyleSheet.create({
-container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-},
-welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-    flex: 1,
-},
-instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-},
-});
-
-function ImageToDisplay(input) {
-    console.log(input);
-    if (input.default == null) {
-        return (<Image source={require('../images/default.jpeg')} style={{ resizeMode: 'stretch'}}/>);
-    } else {
-    return(<Image source={input.default} style={{ resizeMode: 'stretch'}}/>);
-    }
-}
+  const styles = StyleSheet.create({
+    container: {
+      flex: 1,
+      justifyContent: 'center',
+      alignItems: 'center',
+      backgroundColor: '#F5FCFF',
+    },
+    welcome: {
+      fontSize: 20,
+      textAlign: 'center',
+      margin: 10,
+    },
+    instructions: {
+      textAlign: 'center',
+      color: '#333333',
+      marginBottom: 5,
+    },
+  });
