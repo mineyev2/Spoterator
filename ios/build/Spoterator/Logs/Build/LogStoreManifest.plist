@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>55695218-A8BA-4271-9279-3AF3510CB0D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55695218-A8BA-4271-9279-3AF3510CB0D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spoterator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spoterator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>599293726.32052505</real>
+			<key>timeStoppedRecording</key>
+			<real>599293733.81705296</real>
+			<key>title</key>
+			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>55695218-A8BA-4271-9279-3AF3510CB0D0</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
