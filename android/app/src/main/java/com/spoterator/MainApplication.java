@@ -3,7 +3,6 @@ package com.spoterator;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
-import com.imagepicker.ImagePickerPackage;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 import com.swmansion.reanimated.ReanimatedPackage;
 import com.facebook.react.ReactNativeHost;
@@ -24,7 +23,6 @@ import expo.modules.filesystem.FileSystemPackage;
 import java.util.Arrays;
 import java.util.List;
 
-
 public class MainApplication extends Application implements ReactApplication {
   private final ReactModuleRegistryProvider mModuleRegistryProvider = new ReactModuleRegistryProvider(
     new BasePackageList().getPackageList(),
@@ -40,16 +38,12 @@ public class MainApplication extends Application implements ReactApplication {
     @Override
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
-
-          //this part is super fucked up for some reason, so I made some changes and it works now...hopefully no other errors will happen because I did that
           new MainReactPackage(),
-            new ImagePickerPackage(),
-          //new ImagePickerPackage(),
-            //new RNGestureHandlerPackage(),
-            //new ReanimatedPackage(),
+            new RNGestureHandlerPackage(),
+            new ReanimatedPackage(),
           new ReanimatedPackage(),
           new RNGestureHandlerPackage(),
-          //new RNScreensPackage(),
+          new RNScreensPackage(),
           new ModuleRegistryAdapter(mModuleRegistryProvider)
       );
     }
