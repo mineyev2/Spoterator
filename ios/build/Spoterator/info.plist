@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>LastAccessedDate</key>
+<<<<<<< HEAD
 	<date>2020-01-11T03:58:58Z</date>
+=======
+	<date>2020-01-10T23:49:04Z</date>
+>>>>>>> master
 	<key>WorkspacePath</key>
 	<string>/Users/romanmineyev/Spoterator/ios/Spoterator.xcworkspace</string>
 </dict>
