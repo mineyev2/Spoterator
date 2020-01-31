@@ -1,5 +1,5 @@
 import React, { Component, useState } from 'react';
-import { Platform, StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
+import { Platform, StyleSheet, Text, View, Image, TouchableOpacity, Dimensions } from 'react-native';
 import { TextInput } from 'react-native-paper';
 //import * as ImagePicker from 'expo-image-picker';
 import { Permissions, Constants } from 'react-native-unimodules';
@@ -8,7 +8,7 @@ import ImagePicker from 'react-native-image-picker';
 // More info on all the options is below in the API Reference... just some common use cases shown here
 const options = {
     title: 'Select Avatar',
-    customButtons: [{ name: 'fb', title: 'Choose Photo from Facebook' }],
+    //customButtons: [{ name: 'fb', title: 'Choose Photo from Facebook' }],
     storageOptions: {
       skipBackup: true,
       path: 'images',
@@ -56,15 +56,18 @@ export default class CreateScreen extends Component {
 
     render() {
         return (
-            <View style={{flex: 1, flexDirection: 'row'}}>
-                <TouchableOpacity onPress={this._onPress} style={{flex: 1, flexDirection: "column"}}>
+            <View style={styles.container}>
+                <TouchableOpacity onPress={this._onPress} style={{flex: 1, alignSelf: 'center'}}>
                     <View>
-                        <ImageToDisplay default={this.state.avatarSource}/>
+                        {this.state.avatarSource === null ? (
+                            <Image source={require('../images/default.jpeg')} style={{ flex: 1, aspectRatio: 1}}/>
+                        ) : (
+                            <Image source={this.state.avatarSource} style={{ flex: 1, aspectRatio: 1}}/>
+                        )}
                     </View>
                 </TouchableOpacity>
                 <TextInput
                     style={{flex: 1}}
-                    //margin={10}
                     mode={'flat'}
                     label='Enter Playlist Name:'
                     value={this.state.text}
@@ -81,9 +84,10 @@ export default class CreateScreen extends Component {
 const styles = StyleSheet.create({
 container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    justifyContent: 'space-between',
+    flexDirection: 'column',
+    width: Dimensions.get('window').width,
+    height: Dimensions.get('window').height,
 },
 welcome: {
     fontSize: 20,
@@ -96,13 +100,7 @@ instructions: {
     color: '#333333',
     marginBottom: 5,
 },
-});
-
-function ImageToDisplay(input) {
-    console.log(input);
-    if (input.default == null) {
-        return (<Image source={require('../images/default.jpeg')} style={{ resizeMode: 'stretch'}}/>);
-    } else {
-    return(<Image source={input.default} style={{ resizeMode: 'stretch'}}/>);
-    }
+avatarContainer: {
+    width: 10
 }
+});

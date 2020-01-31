@@ -9,6 +9,12 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
   },
+  loginButton: {
+    width: 100,
+    height: 30,
+    justifyContent: 'center',
+    alignItems: 'center',
+  }
 });
 
 const slides = [
@@ -41,6 +47,17 @@ export default class App extends Component {
     showRealApp: false
   }
 
+  //shape of the spotifyLogin button
+  /*
+  _renderDoneButton = () => {
+    return (
+      <View style={styles.loginButton}>
+        <Text>Login to Spotify</Text>
+      </View>
+    );
+  };
+  */
+
   _onDone = () => {
     // User finished the introduction. Show real app through
     // navigation or simply by controlling state
@@ -56,6 +73,8 @@ export default class App extends Component {
        renderDoneButton={this._renderDoneButton}
        renderNextButton={this._renderNextButton}
        onDone = {this._onDone}
+       bottomButton
+       doneLabel = 'Login to Spotify'
        />
      )
     }
