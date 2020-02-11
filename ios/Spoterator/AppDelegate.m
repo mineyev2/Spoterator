@@ -18,6 +18,14 @@
 
 @synthesize window = _window;
 
+
+- (BOOL)application:(UIApplication *)app openURL:(NSURL *)url
+            options:(NSDictionary<NSString *, id> *) options {
+return [self.authorizationFlowManagerDelegate
+        resumeExternalUserAgentFlowWithURL:url];
+}
+
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
   self.moduleRegistryAdapter = [[UMModuleRegistryAdapter alloc] initWithModuleRegistryProvider:[[UMModuleRegistryProvider alloc] init]];

@@ -16,6 +16,8 @@ dependencies: /Users/romanmineyev/Spoterator/ios/Spoterator/AppDelegate.m \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/UMCore/UMAppDelegateWrapper.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/react-native-app-auth/RNAppAuthAuthorizationFlowManager.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/react-native-app-auth/RNAppAuthAuthorizationFlowManagerDelegate.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBundleURLProvider.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
