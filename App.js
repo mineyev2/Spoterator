@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, StatusBar } from 'react-native';
 import AppNavigator from './navigation/AppNavigator';
+import LoginScreen from './screens/LoginScreen'
+import { createAppContainer, createSwitchNavigator } from 'react-navigation';
 
 import AppIntroSlider from 'react-native-app-intro-slider';
 
@@ -65,7 +67,7 @@ export default class App extends Component {
   }
   render() {
     if (this.state.showRealApp) {
-      return <AppNavigator />
+      return <LoginScreen />
     } else {
      return (
        <AppIntroSlider
