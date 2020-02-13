@@ -54,4 +54,6 @@ target 'Spoterator' do
 
   pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
 
+  pod 'react-native-app-auth', :path => '../node_modules/react-native-app-auth'
+
 end

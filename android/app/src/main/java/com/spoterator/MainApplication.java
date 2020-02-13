@@ -3,6 +3,7 @@ package com.spoterator;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.rnappauth.RNAppAuthPackage;
 import com.imagepicker.ImagePickerPackage;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 import com.swmansion.reanimated.ReanimatedPackage;
@@ -43,6 +44,7 @@ public class MainApplication extends Application implements ReactApplication {
 
           //this part is super fucked up for some reason, so I made some changes and it works now...hopefully no other errors will happen because I did that
           new MainReactPackage(),
+            new RNAppAuthPackage(),
             new ImagePickerPackage(),
           //new ImagePickerPackage(),
             //new RNGestureHandlerPackage(),

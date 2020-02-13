@@ -1,9 +1,11 @@
 import React, { Component, useState } from 'react';
 import { Platform, StyleSheet, Text, View, Image, TouchableOpacity, Dimensions } from 'react-native';
-import { TextInput } from 'react-native-paper';
+import { TextInput, Button } from 'react-native-paper';
 //import * as ImagePicker from 'expo-image-picker';
 import { Permissions, Constants } from 'react-native-unimodules';
 import ImagePicker from 'react-native-image-picker';
+import { authorize } from 'react-native-app-auth'
+import { createPlaylist } from './SpotifyAPI'
 
 // More info on all the options is below in the API Reference... just some common use cases shown here
 const options = {
@@ -73,6 +75,15 @@ export default class CreateScreen extends Component {
                     value={this.state.text}
                     onChangeText={text => this.setState({ text })}
                 />
+                <View style={{ flex: 1, alignSelf: 'center'}}>
+                    <Button
+                        color='rgb(100, 100, 255)'
+                        onPress={() => createPlaylist()}
+                    >
+                        Create Playlist
+                    </Button>
+                </View>
+                
             </View>
         );
         
