@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, StatusBar } from 'react-native';
 import AppNavigator from './navigation/AppNavigator';
-import { output } from './screens/LoginScreen'
+import { output } from './screens/SpotifyAPI'
 import { createAppContainer, createSwitchNavigator } from 'react-navigation';
 
 import AppIntroSlider from 'react-native-app-intro-slider';
