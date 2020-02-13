@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>53B67C08-9E41-4313-99A4-58E592F35CD6</key>
+		<key>13976315-C31B-487B-A0E5-2532E068A2DB</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>53B67C08-9E41-4313-99A4-58E592F35CD6.xcactivitylog</string>
+			<string>13976315-C31B-487B-A0E5-2532E068A2DB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,13 @@
 			<key>signature</key>
 			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>603148807.65409696</real>
+			<real>603244498.16987598</real>
 			<key>timeStoppedRecording</key>
-			<real>603148812.32263303</real>
+			<real>603244499.33663094</real>
 			<key>title</key>
 			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>53B67C08-9E41-4313-99A4-58E592F35CD6</string>
+			<string>13976315-C31B-487B-A0E5-2532E068A2DB</string>
 		</dict>
 	</dict>
 </dict>

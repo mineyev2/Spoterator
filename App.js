@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, StatusBar } from 'react-native';
 import AppNavigator from './navigation/AppNavigator';
-import LoginScreen from './screens/LoginScreen'
+import { output } from './screens/LoginScreen'
 import { createAppContainer, createSwitchNavigator } from 'react-navigation';
 
 import AppIntroSlider from 'react-native-app-intro-slider';
@@ -46,7 +46,8 @@ const slides = [
 export default class App extends Component {
   //for some reason this.state doesn't work here
   state = {
-    showRealApp: false
+    showRealApp: false,
+    result: null,
   }
 
   //shape of the spotifyLogin button
@@ -63,11 +64,14 @@ export default class App extends Component {
   _onDone = () => {
     // User finished the introduction. Show real app through
     // navigation or simply by controlling state
-    this.setState({ showRealApp: true} )
+    this.setState({ result: output.componentDidMount() })
+    this.setState({ showRealApp: true })
+
   }
   render() {
     if (this.state.showRealApp) {
-      return <LoginScreen />
+      
+      return <AppNavigator/>
     } else {
      return (
        <AppIntroSlider
