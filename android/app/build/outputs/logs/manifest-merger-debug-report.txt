@@ -513,7 +513,7 @@ ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transfo
 		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:33:13-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
 ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:35:13-42:29
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:io.identityserver.demo
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.spoterator
 ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:35:13-42:29
 action#android.intent.action.VIEW
 ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:36:17-69

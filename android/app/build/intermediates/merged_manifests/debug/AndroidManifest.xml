@@ -107,7 +107,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="io.identityserver.demo" />
+                <data android:scheme="com.spoterator" />
             </intent-filter>
         </activity>
         <activity

@@ -5,7 +5,7 @@ import { authorize } from 'react-native-app-auth'
 const config = {
     clientId: '0e574c577b4247858bbb6730d14ac72f', // available on the app page
     clientSecret: '2795c1cd8939436fb4f842dd82ff64e8', // click "show client secret" to see this
-    redirectUrl: 'spoterator:/oauth.com', // the redirect you defined after creating the app
+    redirectUrl: 'com.spoterator:/oauth', // the redirect you defined after creating the app
     scopes: ["user-read-private", "playlist-read", "streaming", "playlist-read-private", "playlist-modify-private", "playlist-modify-public"], // the scopes you need to access
     serviceConfiguration: {
       authorizationEndpoint: 'https://accounts.spotify.com/authorize',
