@@ -56,4 +56,6 @@ target 'Spoterator' do
 
   pod 'react-native-app-auth', :path => '../node_modules/react-native-app-auth'
 
+  pod 'RNFBApp', :path => '../node_modules/@react-native-firebase/app'
+
 end

@@ -1,4 +1,20 @@
 dependencies: /Users/romanmineyev/Spoterator/ios/Spoterator/AppDelegate.m \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/Firebase/Firebase.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/FirebaseCore/FIRApp.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/FirebaseCore/FIROptions.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/FirebaseInstanceID/FIRInstanceID.h \
   /Users/romanmineyev/Spoterator/ios/Spoterator/AppDelegate.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \

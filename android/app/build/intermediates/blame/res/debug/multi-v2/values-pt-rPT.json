@@ -4,7 +4,24 @@
             "outputFile": "/Users/romanmineyev/Spoterator/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
-                    "source": "/Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/8d88a81fe2c1bf2104b744f8e94855d5/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/948e69869ffafeaa229c6c1a89e72927/res/values-pt-rPT/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4053",
+                        "endColumns": "203",
+                        "endOffsets": "4252"
+                    }
+                },
+                {
+                    "source": "/Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1d4b2a54aaf9a39aeea5c1b0b581a0f0/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,41 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c005c5bc7d9420c32ec7aa6045680907/res/values-pt-rPT/values-pt-rPT.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "52",
-                        "startColumns": "4",
-                        "startOffsets": "6201",
-                        "endColumns": "100",
-                        "endOffsets": "6297"
-                    }
-                },
-                {
-                    "source": "/Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/browser-1.2.0.aar/7ae5f777b43d2c90e2d56ba92f4f2810/res/values-pt-rPT/values-pt-rPT.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,171,270,382",
-                        "endColumns": "115,98,111,101",
-                        "endOffsets": "166,265,377,479"
-                    },
-                    "to": {
-                        "startLines": "47,48,49,50",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "5687,5803,5902,6014",
-                        "endColumns": "115,98,111,101",
-                        "endOffsets": "5798,5897,6009,6111"
-                    }
-                },
-                {
-                    "source": "/Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/res/values-pt-rPT/values.xml",
+                    "source": "/Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/res/values-pt-rPT/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,20 +55,37 @@
                     }
                 },
                 {
-                    "source": "/Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ded66042270862482d7e9be45f25bbd0/res/values-pt-rPT/values.xml",
+                    "source": "/Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0b7a2b0ffa1ca768b74eb86d27ff5421/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "203",
-                        "endOffsets": "454"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "37",
+                        "startLines": "52",
                         "startColumns": "4",
-                        "startOffsets": "4053",
-                        "endColumns": "203",
-                        "endOffsets": "4252"
+                        "startOffsets": "6201",
+                        "endColumns": "100",
+                        "endOffsets": "6297"
+                    }
+                },
+                {
+                    "source": "/Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0ecbac22bcca4dc16d863ffd2fb7eaa7/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,171,270,382",
+                        "endColumns": "115,98,111,101",
+                        "endOffsets": "166,265,377,479"
+                    },
+                    "to": {
+                        "startLines": "47,48,49,50",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5687,5803,5902,6014",
+                        "endColumns": "115,98,111,101",
+                        "endOffsets": "5798,5897,6009,6111"
                     }
                 }
             ]

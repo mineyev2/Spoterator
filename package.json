@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^6.3.4",
     "expo": "~36.0.0",
     "expo-image-picker": "^8.0.1",
     "react": "~16.9.0",

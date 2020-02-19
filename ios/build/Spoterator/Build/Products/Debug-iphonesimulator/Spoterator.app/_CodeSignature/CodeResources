@@ -52,6 +52,10 @@
 		<data>
 		SyvObHkkk6SlcWtv7C2+/olJLD8=
 		</data>
+		<key>GoogleService-Info.plist</key>
+		<data>
+		yuOj8Z7KZWvkaIFyuXmx8nQmNo8=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		5K3XKAJUNAuN5j+PVr9BrU3y76w=
@@ -217,6 +221,17 @@
 			<key>hash2</key>
 			<data>
 			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
+			</data>
+		</dict>
+		<key>GoogleService-Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yuOj8Z7KZWvkaIFyuXmx8nQmNo8=
+			</data>
+			<key>hash2</key>
+			<data>
+			m9GOHsrGyGE3a5SOD9yNLcOuXYrXJEaFuaBbABqseoA=
 			</data>
 		</dict>
 		<key>Ionicons.ttf</key>

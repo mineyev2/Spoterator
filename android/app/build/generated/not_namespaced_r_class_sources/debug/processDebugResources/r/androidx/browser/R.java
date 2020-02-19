@@ -179,10 +179,10 @@ public final class R {
         private string() {}
 
         public static final int copy_toast_msg = 0x7f0c0058;
-        public static final int fallback_menu_item_copy_link = 0x7f0c0061;
-        public static final int fallback_menu_item_open_in_browser = 0x7f0c0062;
-        public static final int fallback_menu_item_share_link = 0x7f0c0063;
-        public static final int status_bar_notification_info_overflow = 0x7f0c0079;
+        public static final int fallback_menu_item_copy_link = 0x7f0c0062;
+        public static final int fallback_menu_item_open_in_browser = 0x7f0c0063;
+        public static final int fallback_menu_item_share_link = 0x7f0c0064;
+        public static final int status_bar_notification_info_overflow = 0x7f0c0081;
     }
     public static final class style {
         private style() {}
