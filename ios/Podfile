@@ -58,4 +58,6 @@ target 'Spoterator' do
 
   pod 'RNFBApp', :path => '../node_modules/@react-native-firebase/app'
 
+  pod 'RNFBMLVision', :path => '../node_modules/@react-native-firebase/ml-vision'
+
 end

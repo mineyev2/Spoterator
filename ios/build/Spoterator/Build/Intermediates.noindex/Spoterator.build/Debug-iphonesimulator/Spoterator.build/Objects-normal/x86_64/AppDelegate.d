@@ -15,6 +15,50 @@ dependencies: /Users/romanmineyev/Spoterator/ios/Spoterator/AppDelegate.m \
   /Users/romanmineyev/Spoterator/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FirebaseMLCommon.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Modules/module.modulemap \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRRemoteModel.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRModelManager.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRModelDownloadNotifications.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRModelDownloadConditions.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLCommon/Frameworks/FirebaseMLCommon.framework/Headers/FIRLocalModel.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FirebaseMLVision.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Modules/module.modulemap \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextRecognizer.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextRecognizedLanguage.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextRecognizedBreak.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextLine.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextElement.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionTextBlock.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionText.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionPoint.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionOnDeviceImageLabelerOptions.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionLatitudeLongitude.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionImageMetadata.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionImageLabeler.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionImageLabel.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionImage.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFaceDetectorOptions.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFaceDetector.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFaceLandmark.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFaceContour.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionFace.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextWord.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextSymbol.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextRecognizer.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextParagraph.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentTextBlock.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionDocumentText.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudTextRecognizerOptions.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudLandmarkDetector.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudLandmark.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudImageLabelerOptions.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudDocumentTextRecognizerOptions.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionCloudDetectorOptions.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionBarcodeDetector.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionBarcodeDetectorOptions.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVisionBarcode.h \
+  /Users/romanmineyev/Spoterator/ios/Pods/FirebaseMLVision/Frameworks/FirebaseMLVision.framework/Headers/FIRVision.h \
   /Users/romanmineyev/Spoterator/ios/Spoterator/AppDelegate.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \

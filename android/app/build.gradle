@@ -148,6 +148,7 @@ def jscFlavor = 'org.webkit:android-jsc:+'
 def enableHermes = project.ext.react.get("enableHermes", false);
 
 dependencies {
+    implementation project(':@react-native-firebase_ml-vision')
     implementation project(':@react-native-firebase_app')
     implementation project(':react-native-app-auth')
     implementation project(':react-native-image-picker')
