@@ -22,8 +22,8 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
-#Pods
-Pods/
+#Pods taht are too big
+FirebaseMLVisionLabelModel/
 
 # Android/IntelliJ
 #
