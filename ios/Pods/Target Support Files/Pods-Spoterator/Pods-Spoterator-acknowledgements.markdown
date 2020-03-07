@@ -1279,6 +1279,10 @@ Copyright 2019 Google
 
 Copyright 2019 Google
 
+## FirebaseMLVisionLabelModel
+
+Copyright 2019 Google
+
 ## Folly
 
 

@@ -27,6 +27,9 @@
     ],
     "Firebase/MLVision": [
       "~> 6.13.0"
+    ],
+    "Firebase/MLVisionLabelModel": [
+      "~> 6.13.0"
     ]
   },
   "static_framework": false

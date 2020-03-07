@@ -18,7 +18,7 @@ PODS:
   - EXFont (8.0.0):
     - UMCore
     - UMFontInterface
-  - EXImagePicker (8.0.1):
+  - EXImagePicker (8.0.2):
     - UMCore
     - UMFileSystemInterface
   - EXKeepAwake (8.0.0):
@@ -53,6 +53,9 @@ PODS:
   - Firebase/MLVision (6.13.0):
     - Firebase/CoreOnly
     - FirebaseMLVision (~> 0.19.0)
+  - Firebase/MLVisionLabelModel (6.13.0):
+    - Firebase/CoreOnly
+    - FirebaseMLVisionLabelModel (~> 0.19.0)
   - FirebaseAnalytics (6.1.6):
     - FirebaseCore (~> 6.4)
     - FirebaseInstanceID (~> 4.2)
@@ -96,6 +99,8 @@ PODS:
     - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
     - GTMSessionFetcher/Core (~> 1.1)
     - Protobuf (~> 3.5)
+  - FirebaseMLVisionLabelModel (0.19.0):
+    - FirebaseMLVision (~> 0.19)
   - Folly (2018.10.22.00):
     - boost-for-react-native
     - DoubleConversion
@@ -325,7 +330,7 @@ PODS:
     - React-cxxreact (= 0.61.5)
     - React-jsi (= 0.61.5)
   - React-jsinspector (0.61.5)
-  - react-native-app-auth (5.0.0):
+  - react-native-app-auth (5.1.1):
     - AppAuth (= 1.2.0)
     - React
   - react-native-image-picker (1.1.0):
@@ -371,6 +376,7 @@ PODS:
   - RNFBMLVision (6.3.4):
     - Firebase/Core (~> 6.13.0)
     - Firebase/MLVision (~> 6.13.0)
+    - Firebase/MLVisionLabelModel (~> 6.13.0)
     - React
     - RNFBApp
   - RNGestureHandler (1.5.2):
@@ -466,6 +472,7 @@ SPEC REPOS:
     - FirebaseInstanceID
     - FirebaseMLCommon
     - FirebaseMLVision
+    - FirebaseMLVisionLabelModel
     - GoogleAPIClientForREST
     - GoogleAppMeasurement
     - GoogleDataTransport
@@ -616,18 +623,18 @@ SPEC CHECKSUMS:
   AppAuth: bce82c76043657c99d91e7882e8a9e1a93650cd4
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   DoubleConversion: 5805e889d232975c086db112ece9ed034df7a0b2
-  EXAppLoaderProvider: ebdb6bc2632c1ccadbe49f5e4104d8d690969c49
-  EXConstants: 4051b16c17ef3defa03c541d42811dc92b249146
-  EXErrorRecovery: d36db99ec6a3808f313f01b0890eb443796dd1c2
-  EXFileSystem: 6e0d9bb6cc4ea404dbb8f583c1a8a2dcdf4b83b6
-  EXFont: 6187b5ab46ee578d5f8e7f2ea092752e78772235
-  EXImagePicker: e02d5a9e45e3575391083fefaa0dc95f5ed45d03
-  EXKeepAwake: 66e9f80b6d129633725a0e42f8d285c229876811
-  EXLinearGradient: 75f302f9d6484267a3f6d3252df2e7a5f00e716a
-  EXLocation: 3c75d012ca92eed94d4338778d79c49d1252393a
-  EXPermissions: 9bc08859a675d291e89be9a0870155c27c16ac35
-  EXSQLite: 220226a354912b100dfe913f5fe6f31762c8927e
-  EXWebBrowser: db32607359fb7b55b7b7b91df32dd3d8355bb3b7
+  EXAppLoaderProvider: f6aeb45ee81887811b34eee5c5f235a6111d58d0
+  EXConstants: e287774d0d32634ddaef614f2e488c550c6deefc
+  EXErrorRecovery: 5e1d671b4ce87e47c6dfd7ffa858d8d730f24777
+  EXFileSystem: fa8ecad925ad984681910a2273930f7255a0a9b5
+  EXFont: 5e3c087bc09461075a070457fa7c9df3c2bf17cf
+  EXImagePicker: 4c2d3cb5012cfde48b225e75ce6870df811f9d30
+  EXKeepAwake: 5f96bd91d4d3be5ef12c59ef7efafeac0f50ad2f
+  EXLinearGradient: d5c7fa637f82566318261b7614d325b334ceed08
+  EXLocation: e994c186f94340caf1a9ace96b3458a72472553c
+  EXPermissions: 3e58e0fbb2e9539ad1ef5617ff02c2356447421e
+  EXSQLite: 3297f74a9d36eb1eb1c2cd9b9037fe01170db15a
+  EXWebBrowser: 7e1b05d3f517e685267d51971a21f635f2e6bf06
   FBLazyVector: aaeaf388755e4f29cd74acbc9e3b8da6d807c37f
   FBReactNativeSpec: 118d0d177724c2d67f08a59136eb29ef5943ec75
   Firebase: 458d109512200d1aca2e1b9b6cf7d68a869a4a46
@@ -638,6 +645,7 @@ SPEC CHECKSUMS:
   FirebaseInstanceID: ebd2ea79ee38db0cb5f5167b17a0d387e1cc7b6e
   FirebaseMLCommon: 074a67e05122b1c9f6401a4e33b2cea3b4efd224
   FirebaseMLVision: 7a456009787690e3b53436092ae9b635563de8f3
+  FirebaseMLVisionLabelModel: 7638a20d27219d5baa4b534a62375fc1d5bd077d
   Folly: 30e7936e1c45c08d884aa59369ed951a8e68cf51
   glog: 1f3da668190260b06b429bb211bfbee5cd790c28
   GoogleAPIClientForREST: 0f19a8280dfe6471f76016645d26eb5dae305101
@@ -658,8 +666,8 @@ SPEC CHECKSUMS:
   React-jsi: cb2cd74d7ccf4cffb071a46833613edc79cdf8f7
   React-jsiexecutor: d5525f9ed5f782fdbacb64b9b01a43a9323d2386
   React-jsinspector: fa0ecc501688c3c4c34f28834a76302233e29dc0
-  react-native-app-auth: 8c449657316913fc6b0a83c2bda80e3737eea1bc
-  react-native-image-picker: 7a85cf7b0a53845f03ae52fb4592a2748ded069b
+  react-native-app-auth: 048f9ea8c2358ce1207207a0e74fb16563a3a2bd
+  react-native-image-picker: 3637d63fef7e32a230141ab4660d3ceb773c824f
   React-RCTActionSheet: 600b4d10e3aea0913b5a92256d2719c0cdd26d76
   React-RCTAnimation: 791a87558389c80908ed06cc5dfc5e7920dfa360
   React-RCTBlob: d89293cc0236d9cb0933d85e430b0bbe81ad1d72
@@ -671,21 +679,21 @@ SPEC CHECKSUMS:
   React-RCTVibration: a49a1f42bf8f5acf1c3e297097517c6b3af377ad
   ReactCommon: 198c7c8d3591f975e5431bec1b0b3b581aa1c5dd
   RNFBApp: 7d4006751de8bb5cafa2e8d2e7d94ee250df81db
-  RNFBMLVision: 94a2deb9e20556b1963c6c2c046de39120d3c1c3
+  RNFBMLVision: 41a66d4a50813e270e96e1c06be64b4ee7f41693
   RNGestureHandler: 946a7691e41df61e2c4b1884deab41a4cdc3afff
   RNReanimated: b2ab0b693dddd2339bd2f300e770f6302d2e960c
-  UMBarCodeScannerInterface: 3802c8574ef119c150701d679ab386e2266d6a54
-  UMCameraInterface: 985d301f688ed392f815728f0dd906ca34b7ccb1
-  UMConstantsInterface: bda5f8bd3403ad99e663eb3c4da685d063c5653c
-  UMCore: 7ab08669a8bb2e61f557c1fe9784521cb5aa28e3
-  UMFaceDetectorInterface: ce14e8e597f6a52aa66e4ab956cb5bff4fa8acf8
-  UMFileSystemInterface: 2ed004c9620f43f0b36b33c42ce668500850d6a4
-  UMFontInterface: 24fbc0a02ade6c60ad3ee3e2b5d597c8dcfc3208
-  UMImageLoaderInterface: 3976a14c588341228881ff75970fbabf122efca4
-  UMPermissionsInterface: 2abf9f7f4aa7110e27beaf634a7deda2d50ff3d7
-  UMReactNativeAdapter: 230406e3335a8dbd4c9c0e654488a1cf3b44552f
-  UMSensorsInterface: d708a892ef1500bdd9fc3ff03f7836c66d1634d3
-  UMTaskManagerInterface: a98e37a576a5220bf43b8faf33cfdc129d2f441d
+  UMBarCodeScannerInterface: 550e7ffd7a789289260bde3d547be29407e75437
+  UMCameraInterface: 51e4568d64e77615557afaad9a3acdaad5d32d9f
+  UMConstantsInterface: 23d658b73efc2b8090519b32007c3de725339492
+  UMCore: 70ffbb181a04d87b029b0235873e59090690b7ab
+  UMFaceDetectorInterface: b29febb6c855acb2891d024bb8059f5a8feb37d0
+  UMFileSystemInterface: 31b0a8461d0c635940b70618f82524e321b55d7c
+  UMFontInterface: c82a5e8e17d1578f0b76745535a5f4dc43971970
+  UMImageLoaderInterface: bd64d84e5772165a13575f7ddd43b489f51e5694
+  UMPermissionsInterface: 907d0112f59b172550fe36174432024a4d5f0cd7
+  UMReactNativeAdapter: 7ec3c2da240e767df8257bc487251ae03447d1b0
+  UMSensorsInterface: 1b36739f5241fa88ba483be9520d0a30e4d6f84c
+  UMTaskManagerInterface: ee5b1ee1056eb338ff2d521ba79460d8cd0bae7d
   Yoga: f2a7cd4280bfe2cca5a7aed98ba0eb3d1310f18b
 
 PODFILE CHECKSUM: 5dfa92111f98c92d86bb7d895990a42919aa1b1f

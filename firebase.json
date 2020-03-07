@@ -1,8 +1,7 @@
 {
-    'react-native': {
-      // on device image labelling
-      // TODO: merge these options into one
-      ml_vision_label_model: true,
-      ml_vision_image_label_model: true,
-    },
+  "react-native": {
+
+    "ml_vision_label_model": true,
+    "ml_vision_image_label_model": true
   }
+}

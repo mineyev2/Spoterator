@@ -79,7 +79,7 @@ export default class CreateScreen extends Component {
                     <Button
                         color='rgb(100, 100, 255)'
                         //onPress={() => Alert.alert('Cannot press this one')}
-                        onPress={() => processImage()}
+                        onPress={() => processImage(this.state.avatarSource.uri)}
                     >
                         Create Playlist
                     </Button>

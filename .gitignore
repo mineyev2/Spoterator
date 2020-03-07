@@ -22,6 +22,9 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
+#Not necessary pod files
+**/FirebaseMLVisionLabelModel/
+
 # Android/IntelliJ
 #
 build/

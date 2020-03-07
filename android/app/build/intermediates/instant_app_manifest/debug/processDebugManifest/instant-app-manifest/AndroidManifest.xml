@@ -67,7 +67,7 @@
 
         <meta-data
             android:name="com.google.firebase.ml.vision.DEPENDENCIES"
-            android:value="" />
+            android:value="label" />
 
         <provider
             android:name="com.imagepicker.FileProvider"
