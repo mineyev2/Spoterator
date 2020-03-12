@@ -44,7 +44,7 @@ export default class CreateScreen extends Component {
             } else if (response.customButton) {
                 console.log('User tapped custom button: ', response.customButton);
             } else {
-                const source = { uri: response.uri };
+                const source = { uri: response.uri, path: response.path };
     
                 // You can also display the image using data:
                 //const source = { uri: 'data:image/jpeg;base64,' + response.data };
@@ -79,7 +79,7 @@ export default class CreateScreen extends Component {
                     <Button
                         color='rgb(100, 100, 255)'
                         //onPress={() => Alert.alert('Cannot press this one')}
-                        onPress={() => processImage(this.state.avatarSource.uri)}
+                        onPress={() => processImage(this.state.avatarSource)}
                     >
                         Create Playlist
                     </Button>
