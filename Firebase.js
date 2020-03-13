@@ -7,7 +7,7 @@ export async function processImage(source) {
   // Using the local file, process the image on the cloud image processor
   //console.log("about to run vision detection");
   //console.log("Path: " + Platform.OS === 'ios' ? source.uri : source.path);
-  var wantedThreshold = 0.8;
+  var wantedThreshold = 0.5;
   var processed = await vision().imageLabelerProcessImage((Platform.OS === 'ios' ? source.uri : source.path), {
     confidenceThreshold: wantedThreshold,
   });
@@ -24,5 +24,5 @@ export async function processImage(source) {
       }
     }
   }
-  return (Platform.OS === 'ios' ? processed : newProcessed);
+  console.log(Platform.OS === 'ios' ? processed : newProcessed);
 }
