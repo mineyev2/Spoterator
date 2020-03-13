@@ -25,4 +25,5 @@ export async function processImage(source) {
     }
   }
   console.log(Platform.OS === 'ios' ? processed : newProcessed);
+  return(Platform.OS === 'ios' ? processed : newProcessed);
 }

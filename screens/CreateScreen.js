@@ -5,7 +5,7 @@ import { TextInput, Button } from 'react-native-paper';
 import { Permissions, Constants } from 'react-native-unimodules';
 import ImagePicker from 'react-native-image-picker';
 import { authorize } from 'react-native-app-auth'
-import { processImage } from '../Firebase'
+import { createPlaylist } from './SpotifyAPI';
 
 // More info on all the options is below in the API Reference... just some common use cases shown here
 const options = {
@@ -79,7 +79,7 @@ export default class CreateScreen extends Component {
                     <Button
                         color='rgb(100, 100, 255)'
                         //onPress={() => Alert.alert('Cannot press this one')}
-                        onPress={() => processImage(this.state.avatarSource)}
+                        onPress={() => createPlaylist(this.state.avatarSource)}
                     >
                         Create Playlist
                     </Button>

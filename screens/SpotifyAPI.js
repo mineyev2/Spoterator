@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
 import { authorize } from 'react-native-app-auth'
 import SpotifyWebApi from 'spotify-web-api-js';
+import { processImage } from '../Firebase'
 
 
 const config = {
@@ -19,7 +20,8 @@ var result = null;
 export const output = {
   async componentDidMount() {
     try {
-        const result = await authorize(config);
+        result = await authorize(config);
+        console.log(result);
         //console.log("access token: ", result.accessToken);
         //console.log("access token expiration: ", result.accessTokenExpirationDate);
         //console.log("refresh token: ", result.refreshToken);
@@ -32,14 +34,25 @@ export const output = {
   }
 }
 
-export function createPlaylist() {
+export async function createPlaylist(source) {
+  //dont really understand async functions that well
+  //but have to do await for labels or else theres not enough time for the code to process in all the detected objects in the image
+  labels = await processImage(source);
+  console.log(labels);
   console.log('running createPlaylist');
   var spotifyApi = new SpotifyWebApi();
   spotifyApi.setAccessToken(result.accessToken);
-  spotifyApi.searchTracks('Love')
-  .then(function(data) {
-    console.log(data.tracks);
-  }, function(err) {
-    console.error(err);
-  });
+
+  
+
+  for (i = 0; i < labels.length; i++) {
+    spotifyApi.searchTracks(labels[i].text, {limit: 5})
+    .then(function(data) {
+      console.log(data.tracks);
+    }, function(err) {
+      console.error(err);
+    });
+  }
+
+  spotifyApi.createPlaylist(result);
 }
