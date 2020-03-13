@@ -5,7 +5,7 @@ import { TextInput, Button } from 'react-native-paper';
 import { Permissions, Constants } from 'react-native-unimodules';
 import ImagePicker from 'react-native-image-picker';
 import { authorize } from 'react-native-app-auth'
-import { createPlaylist } from './SpotifyAPI'
+import { processImage } from '../Firebase'
 
 // More info on all the options is below in the API Reference... just some common use cases shown here
 const options = {
@@ -33,7 +33,7 @@ export default class CreateScreen extends Component {
     }
 
     _onPress = () => {
-        console.log("running function")
+        console.log("running image picker")
         ImagePicker.showImagePicker(options, (response) => {
             console.log('Response = ', response);
     
@@ -44,7 +44,7 @@ export default class CreateScreen extends Component {
             } else if (response.customButton) {
                 console.log('User tapped custom button: ', response.customButton);
             } else {
-                const source = { uri: response.uri };
+                const source = { uri: response.uri, path: response.path };
     
                 // You can also display the image using data:
                 //const source = { uri: 'data:image/jpeg;base64,' + response.data };
@@ -78,7 +78,8 @@ export default class CreateScreen extends Component {
                 <View style={{ flex: 1, alignSelf: 'center'}}>
                     <Button
                         color='rgb(100, 100, 255)'
-                        onPress={() => createPlaylist()}
+                        //onPress={() => Alert.alert('Cannot press this one')}
+                        onPress={() => processImage(this.state.avatarSource)}
                     >
                         Create Playlist
                     </Button>

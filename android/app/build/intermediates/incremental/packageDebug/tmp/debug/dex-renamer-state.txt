@@ -1,7 +1,10 @@
-#Wed Feb 12 20:50:26 CST 2020
+#Fri Mar 06 18:58:57 CST 2020
+base.2=/Users/romanmineyev/Spoterator/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.2=classes2.dex
 base.1=/Users/romanmineyev/Spoterator/android/app/build/intermediates/transforms/dexMerger/debug/1
 path.1=classes.dex
 base.0=/Users/romanmineyev/Spoterator/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

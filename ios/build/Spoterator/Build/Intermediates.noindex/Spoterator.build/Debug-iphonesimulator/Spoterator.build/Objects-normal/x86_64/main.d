@@ -1,4 +1,5 @@
 dependencies: /Users/romanmineyev/Spoterator/ios/Spoterator/main.m \
+  /Users/romanmineyev/Spoterator/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
   /Users/romanmineyev/Spoterator/ios/Spoterator/AppDelegate.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
   /Users/romanmineyev/Spoterator/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \

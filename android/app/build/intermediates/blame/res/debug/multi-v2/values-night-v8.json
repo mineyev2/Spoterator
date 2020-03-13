@@ -4,7 +4,7 @@
             "outputFile": "/Users/romanmineyev/Spoterator/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/8d88a81fe2c1bf2104b744f8e94855d5/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1d4b2a54aaf9a39aeea5c1b0b581a0f0/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

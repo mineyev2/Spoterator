@@ -4,16 +4,18 @@ ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.x
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:1:1-52:12
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:1:1-52:12
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from [:@react-native-firebase_ml-vision] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/ml-vision/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:@react-native-firebase_app] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-app-auth] /Users/romanmineyev/Spoterator/node_modules/react-native-app-auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-image-picker] /Users/romanmineyev/Spoterator/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
 MERGED from [:react-native-gesture-handler] /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] /Users/romanmineyev/Spoterator/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/36afe0ce1b3e274724b6e428d78e1558/AndroidManifest.xml:2:1-13:12
 MERGED from [:expo-permissions] /Users/romanmineyev/Spoterator/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-image-picker] /Users/romanmineyev/Spoterator/node_modules/expo-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-25:12
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-android-image-cropper-2.7.0.aar/7c66fc0ee7cc2d161352efc90b3980e5/AndroidManifest.xml:2:1-11:12
-MERGED from [:unimodules-react-native-adapter] /Users/romanmineyev/Spoterator/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/8b9313f072938b6974b5044830acc185/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/8d88a81fe2c1bf2104b744f8e94855d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1f33b24402db49473a1ea2e8a1210f00/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1d4b2a54aaf9a39aeea5c1b0b581a0f0/AndroidManifest.xml:17:1-22:12
 MERGED from [:expo-app-loader-provider] /Users/romanmineyev/Spoterator/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-constants] /Users/romanmineyev/Spoterator/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-error-recovery] /Users/romanmineyev/Spoterator/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -35,55 +37,79 @@ MERGED from [:unimodules-task-manager-interface] /Users/romanmineyev/Spoterator/
 MERGED from [:unimodules-core] /Users/romanmineyev/Spoterator/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-image-loader-interface] /Users/romanmineyev/Spoterator/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-sensors-interface] /Users/romanmineyev/Spoterator/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [org.webkit:android-jsc:r245459] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/60701e4a95f9d67227c0f948d19665bb/AndroidManifest.xml:2:1-11:12
-MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:15:1-46:12
-MERGED from [androidx.browser:browser:1.2.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/browser-1.2.0.aar/7ae5f777b43d2c90e2d56ba92f4f2810/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/688e43f9d4846706d9017b2108228dfb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/f6f5f5cc14f215931e9a2321deb98cc4/AndroidManifest.xml:2:1-12:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/7dfc9462a190ec8f6ea9ea54ac41f728/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/a678141897c0a75d1c21f6f68ec30cc5/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/b266fd462eb4cb05e8419ab02b4306af/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1aeda5a47ecd02e475f8ec086129a607/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ded66042270862482d7e9be45f25bbd0/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/4b3699b42f730f6acd37a820a6ccc209/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/3b8fe8f2adfc587c2204166db0e0e912/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/0e22301b080e99aa43e842a79dc0189e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/f18dcecf35abbaaef2ed44c6451f973a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/57a4a7a0a5d460f722d0e527d658f36d/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/aa38f14499d3f687e5fed3e0bd697153/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/229233a62b4dfa8a65ea97640c1dcbf4/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/083333fa91b51edf33fa3f34daa05122/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1124812935f306f0518a027ffe2ef0af/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/d0073b5418ecaf4e71315af4ef2db002/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3eae126efe6f065976fe935f44f013c0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6c7157b937336de8d6a77e19661eefc9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/91c0d1a21d5a4a163ce1331b20d9466a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/faf971979bcf40dab4306d44a716a77e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/eeb2e6ead715b5021220e7d1d0fec167/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c005c5bc7d9420c32ec7aa6045680907/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/0dca453af7432748ef94c856d12c0d8a/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/4ac3d7584126b5ddcdbe441d54f031b0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6fb0811a6c5d344871aa1a6dbb7fcc52/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/042f7fd4e07e43f9cfa4bb4d355f670b/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3d07d382f85457a43bc2202eefb991f6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/25f750366c0a45d30b2df6297735fb7d/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b5a470255c148ff9fb82c34e48db59d7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cc52d05140573e41cd1ecec56a4b985b/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/bf402f182d8f0d871cf51a7f08193aef/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/aa5fa7e366b9b3105b44ed4bed8ec507/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9973471ac68fb09f4612014edaba16a1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/d15297b4e0a611374eb480e057f913d6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/48762790097d3de8f418a84cde54a0bf/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/9361ed0b1e64d61f0b0de7b35f6cfef9/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/87457dfc2fb3dba12b54522ec676a72b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/0359a071a512669a9a1b00362fb92cba/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/9a340836b107a2fa83f18076bf0b83a4/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/47efdd01ed5a622e095c390dc9091480/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/64c82348dd3e8d993c58c2eb3af0d56c/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a030b26be3359aeeafe005374d504bd8/AndroidManifest.xml:2:1-13:12
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:2:1-30:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/bd11397e46d2a3b840a9952cb65949ab/AndroidManifest.xml:2:1-9:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8cbeb509b83c0354cb23c00a295d11c4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a6f65f0b950254ee7b69c7b4fcd0300/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/3298a66768094f75a758f643d3bda0a7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/609fa5e2e696b9af0082004615e56e90/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:2:1-19:12
+MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:15:1-46:12
+MERGED from [androidx.browser:browser:1.2.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0ecbac22bcca4dc16d863ffd2fb7eaa7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/aa474ca71feea770e1d36f245ebc7743/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/bfd924d11a364f80a49c74dbb546acb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/b9040acf88d1261a14e4f15cf4de2e40/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/cf58b9036e478076eaa80d75518194aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e851ae26e875c9451cd914218e6ab08a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dce9adb34a57cc8e7a325af290c75a63/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/4fc4d5e4b19d66f5579dce84548a2589/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/bc241012b046ae7ee889bae4c3d48e78/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/592080c6d91a7bf6c9b3af9c829d74e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a9535671379e0f8f31337466566fb6a/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/d5b79c902f270938d84838f7987cc756/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a569b29125df12b09222dec195ed988/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/df8aa052178ae18ada817b3d2a21ed53/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7a2272419aeb436b792e970c2ddcc53f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/559bf139e0fce880ecf7e5f145a700d4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/faf9d92b249272cb9d1a275f91d3960f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dff4fc3f7a30e97d971fd119fcd8309e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/29f5b431e9f768b9f64457e8342abf98/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/266ccfb721c19b424d091dfce401df36/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/57abc4b24ca6390d1c50cc5154604fb1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/948e69869ffafeaa229c6c1a89e72927/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e3fd402e0195441ddc4e2c99714fa86c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8038038b7ff0ee56850267102bb7c4bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8a25d58a6f1167352a4f86b0268dc0ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7f7657c6a322eb6f50e6c2308bebae75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9744b779fa0c72d1bb49c3faaae331a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/91a7b5a34539f53c19e3b1b5e76cfc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1f1286269eb3289b73fd986f96fc9d5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e5befe46d7a7df0dd8e8cb09a220f9c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7376b862b765f37340838c8f6c365a7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e5841fea1569fb3d89449be714f3f072/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/25f7b12d2d5580484d6df1ce9776acef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2e35714dfe9af2e80ad5459c6f5b1976/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/5b20de1e143c679cc9ee1d1c48b4aff6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/f707a782c386a9d76bfb7a2ebcd194d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0b7a2b0ffa1ca768b74eb86d27ff5421/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/04b7e80a0fb3470e93ef552401b9fffc/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8cde7da1c4bd887684066e161e7d711e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/206f1b09701609a00bdfe509e063d02b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7eb03b1a5027f4c3f29ae03e93468364/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/5ce8f2ed4f49a6cf0e0d6ae40214d3d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/c61d928961a026d8dd0744d7947b2155/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/271c2a7f714cee9c26e49b13eab7b8d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/fdcb3edf18f02f27eaa63db3339cb375/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/5d4c109574af24313198e46b39c6afb7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/c45ef6ed5ea5cb9d281af25269f58fd2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/639a070041f0e0fe65f712ff767c38c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/adb9925c36b610363776cc8f9b6f2e1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/6f19059cee83047243925dcc49cbf48b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/da21cacda156550e34b2dc8b6f34d3cb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ea8add1049c04eb4b0d4aff0eaa9e2fe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ebad744396ae5300a43ac6502ca227d9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2c161a689fe5d726de3b08db4a8619c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/478002ab76a0ada6e4946601aec782eb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ac79231a882d5db4a34e7156f885c765/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/94ed2b0583f0f96b210428056330f6c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/6146f6db398476a8321d7554ba87e9e8/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1ff271d8cbe131fd306402ca962eda0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:1:1-52:12
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:1:1-52:12
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:1:1-52:12
@@ -105,8 +131,18 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [:expo-file-system] /Users/romanmineyev/Spoterator/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
 MERGED from [:expo-file-system] /Users/romanmineyev/Spoterator/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
-MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:24:5-67
-MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:23:5-67
+MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:24:5-67
+MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/faf9d92b249272cb9d1a275f91d3960f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/faf9d92b249272cb9d1a275f91d3960f/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -141,16 +177,16 @@ uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:16:5-81
 MERGED from [:expo-location] /Users/romanmineyev/Spoterator/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
 MERGED from [:expo-location] /Users/romanmineyev/Spoterator/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:12:5-81
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:12:5-81
 	android:name
 		ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:16:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:17:5-79
 MERGED from [:expo-location] /Users/romanmineyev/Spoterator/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
 MERGED from [:expo-location] /Users/romanmineyev/Spoterator/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:14:5-79
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:14:5-79
 	android:name
 		ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:17:22-76
 uses-permission#android.permission.CAMERA
@@ -191,42 +227,86 @@ ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.x
 		ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:25:22-70
 application
 ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:28:5-50:19
+MERGED from [:@react-native-firebase_ml-vision] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/ml-vision/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:@react-native-firebase_ml-vision] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/ml-vision/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
 MERGED from [:react-native-image-picker] /Users/romanmineyev/Spoterator/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
 MERGED from [:react-native-image-picker] /Users/romanmineyev/Spoterator/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/36afe0ce1b3e274724b6e428d78e1558/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/36afe0ce1b3e274724b6e428d78e1558/AndroidManifest.xml:11:5-20
 MERGED from [:expo-image-picker] /Users/romanmineyev/Spoterator/node_modules/expo-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-23:19
 MERGED from [:expo-image-picker] /Users/romanmineyev/Spoterator/node_modules/expo-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-23:19
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/8b9313f072938b6974b5044830acc185/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/8b9313f072938b6974b5044830acc185/AndroidManifest.xml:11:5-20
 MERGED from [:expo-file-system] /Users/romanmineyev/Spoterator/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
 MERGED from [:expo-file-system] /Users/romanmineyev/Spoterator/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
 MERGED from [:expo-location] /Users/romanmineyev/Spoterator/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
 MERGED from [:expo-location] /Users/romanmineyev/Spoterator/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
-MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:26:5-44:19
-MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:26:5-44:19
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/f6f5f5cc14f215931e9a2321deb98cc4/AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/f6f5f5cc14f215931e9a2321deb98cc4/AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/7dfc9462a190ec8f6ea9ea54ac41f728/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/7dfc9462a190ec8f6ea9ea54ac41f728/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/a678141897c0a75d1c21f6f68ec30cc5/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/a678141897c0a75d1c21f6f68ec30cc5/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/b266fd462eb4cb05e8419ab02b4306af/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/b266fd462eb4cb05e8419ab02b4306af/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1aeda5a47ecd02e475f8ec086129a607/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1aeda5a47ecd02e475f8ec086129a607/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ded66042270862482d7e9be45f25bbd0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ded66042270862482d7e9be45f25bbd0/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c005c5bc7d9420c32ec7aa6045680907/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c005c5bc7d9420c32ec7aa6045680907/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/0dca453af7432748ef94c856d12c0d8a/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/0dca453af7432748ef94c856d12c0d8a/AndroidManifest.xml:24:5-25:19
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a030b26be3359aeeafe005374d504bd8/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a030b26be3359aeeafe005374d504bd8/AndroidManifest.xml:11:5-20
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:18:5-28:19
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:18:5-28:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a6f65f0b950254ee7b69c7b4fcd0300/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a6f65f0b950254ee7b69c7b4fcd0300/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/3298a66768094f75a758f643d3bda0a7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/3298a66768094f75a758f643d3bda0a7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/609fa5e2e696b9af0082004615e56e90/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/609fa5e2e696b9af0082004615e56e90/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:11:5-17:19
+MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:26:5-44:19
+MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:26:5-44:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/b9040acf88d1261a14e4f15cf4de2e40/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/b9040acf88d1261a14e4f15cf4de2e40/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/cf58b9036e478076eaa80d75518194aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/cf58b9036e478076eaa80d75518194aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e851ae26e875c9451cd914218e6ab08a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e851ae26e875c9451cd914218e6ab08a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dce9adb34a57cc8e7a325af290c75a63/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dce9adb34a57cc8e7a325af290c75a63/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/4fc4d5e4b19d66f5579dce84548a2589/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/4fc4d5e4b19d66f5579dce84548a2589/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/bc241012b046ae7ee889bae4c3d48e78/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/bc241012b046ae7ee889bae4c3d48e78/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/d5b79c902f270938d84838f7987cc756/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/d5b79c902f270938d84838f7987cc756/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a569b29125df12b09222dec195ed988/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a569b29125df12b09222dec195ed988/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/df8aa052178ae18ada817b3d2a21ed53/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/df8aa052178ae18ada817b3d2a21ed53/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7a2272419aeb436b792e970c2ddcc53f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7a2272419aeb436b792e970c2ddcc53f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/559bf139e0fce880ecf7e5f145a700d4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/559bf139e0fce880ecf7e5f145a700d4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dff4fc3f7a30e97d971fd119fcd8309e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dff4fc3f7a30e97d971fd119fcd8309e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/29f5b431e9f768b9f64457e8342abf98/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/29f5b431e9f768b9f64457e8342abf98/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/266ccfb721c19b424d091dfce401df36/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/266ccfb721c19b424d091dfce401df36/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/57abc4b24ca6390d1c50cc5154604fb1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/57abc4b24ca6390d1c50cc5154604fb1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/948e69869ffafeaa229c6c1a89e72927/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/948e69869ffafeaa229c6c1a89e72927/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0b7a2b0ffa1ca768b74eb86d27ff5421/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0b7a2b0ffa1ca768b74eb86d27ff5421/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/04b7e80a0fb3470e93ef552401b9fffc/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/04b7e80a0fb3470e93ef552401b9fffc/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7eb03b1a5027f4c3f29ae03e93468364/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7eb03b1a5027f4c3f29ae03e93468364/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/6146f6db398476a8321d7554ba87e9e8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/6146f6db398476a8321d7554ba87e9e8/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:18:5-28:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c005c5bc7d9420c32ec7aa6045680907/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0b7a2b0ffa1ca768b74eb86d27ff5421/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml:30:7-39
 	android:roundIcon
@@ -273,6 +353,10 @@ uses-sdk
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-firebase_ml-vision] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/ml-vision/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_ml-vision] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/ml-vision/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_app] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_app] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-app-auth] /Users/romanmineyev/Spoterator/node_modules/react-native-app-auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-app-auth] /Users/romanmineyev/Spoterator/node_modules/react-native-app-auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-image-picker] /Users/romanmineyev/Spoterator/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
@@ -281,18 +365,18 @@ MERGED from [:react-native-gesture-handler] /Users/romanmineyev/Spoterator/node_
 MERGED from [:react-native-gesture-handler] /Users/romanmineyev/Spoterator/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /Users/romanmineyev/Spoterator/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/romanmineyev/Spoterator/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/romanmineyev/Spoterator/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/36afe0ce1b3e274724b6e428d78e1558/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/36afe0ce1b3e274724b6e428d78e1558/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] /Users/romanmineyev/Spoterator/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] /Users/romanmineyev/Spoterator/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-image-picker] /Users/romanmineyev/Spoterator/node_modules/expo-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-image-picker] /Users/romanmineyev/Spoterator/node_modules/expo-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-android-image-cropper-2.7.0.aar/7c66fc0ee7cc2d161352efc90b3980e5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-android-image-cropper-2.7.0.aar/7c66fc0ee7cc2d161352efc90b3980e5/AndroidManifest.xml:7:5-9:41
-MERGED from [:unimodules-react-native-adapter] /Users/romanmineyev/Spoterator/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:unimodules-react-native-adapter] /Users/romanmineyev/Spoterator/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/8b9313f072938b6974b5044830acc185/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.5] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/8b9313f072938b6974b5044830acc185/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/8d88a81fe2c1bf2104b744f8e94855d5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/8d88a81fe2c1bf2104b744f8e94855d5/AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1f33b24402db49473a1ea2e8a1210f00/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1f33b24402db49473a1ea2e8a1210f00/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1d4b2a54aaf9a39aeea5c1b0b581a0f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1d4b2a54aaf9a39aeea5c1b0b581a0f0/AndroidManifest.xml:20:5-44
 MERGED from [:expo-app-loader-provider] /Users/romanmineyev/Spoterator/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-app-loader-provider] /Users/romanmineyev/Spoterator/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-constants] /Users/romanmineyev/Spoterator/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -335,104 +419,152 @@ MERGED from [:unimodules-image-loader-interface] /Users/romanmineyev/Spoterator/
 MERGED from [:unimodules-image-loader-interface] /Users/romanmineyev/Spoterator/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-sensors-interface] /Users/romanmineyev/Spoterator/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-sensors-interface] /Users/romanmineyev/Spoterator/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/60701e4a95f9d67227c0f948d19665bb/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/60701e4a95f9d67227c0f948d19665bb/AndroidManifest.xml:7:5-9:41
-MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:20:5-22:41
-MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.2.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/browser-1.2.0.aar/7ae5f777b43d2c90e2d56ba92f4f2810/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.2.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/browser-1.2.0.aar/7ae5f777b43d2c90e2d56ba92f4f2810/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/688e43f9d4846706d9017b2108228dfb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/688e43f9d4846706d9017b2108228dfb/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/f6f5f5cc14f215931e9a2321deb98cc4/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/f6f5f5cc14f215931e9a2321deb98cc4/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/7dfc9462a190ec8f6ea9ea54ac41f728/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/7dfc9462a190ec8f6ea9ea54ac41f728/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/a678141897c0a75d1c21f6f68ec30cc5/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/a678141897c0a75d1c21f6f68ec30cc5/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/b266fd462eb4cb05e8419ab02b4306af/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/b266fd462eb4cb05e8419ab02b4306af/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1aeda5a47ecd02e475f8ec086129a607/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/1aeda5a47ecd02e475f8ec086129a607/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ded66042270862482d7e9be45f25bbd0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ded66042270862482d7e9be45f25bbd0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/4b3699b42f730f6acd37a820a6ccc209/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/4b3699b42f730f6acd37a820a6ccc209/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/3b8fe8f2adfc587c2204166db0e0e912/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/3b8fe8f2adfc587c2204166db0e0e912/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/0e22301b080e99aa43e842a79dc0189e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/0e22301b080e99aa43e842a79dc0189e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/f18dcecf35abbaaef2ed44c6451f973a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/f18dcecf35abbaaef2ed44c6451f973a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/57a4a7a0a5d460f722d0e527d658f36d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/57a4a7a0a5d460f722d0e527d658f36d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/aa38f14499d3f687e5fed3e0bd697153/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/aa38f14499d3f687e5fed3e0bd697153/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/229233a62b4dfa8a65ea97640c1dcbf4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/229233a62b4dfa8a65ea97640c1dcbf4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/083333fa91b51edf33fa3f34daa05122/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/083333fa91b51edf33fa3f34daa05122/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1124812935f306f0518a027ffe2ef0af/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/1124812935f306f0518a027ffe2ef0af/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/d0073b5418ecaf4e71315af4ef2db002/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/d0073b5418ecaf4e71315af4ef2db002/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3eae126efe6f065976fe935f44f013c0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3eae126efe6f065976fe935f44f013c0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6c7157b937336de8d6a77e19661eefc9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6c7157b937336de8d6a77e19661eefc9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/91c0d1a21d5a4a163ce1331b20d9466a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/91c0d1a21d5a4a163ce1331b20d9466a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/faf971979bcf40dab4306d44a716a77e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/faf971979bcf40dab4306d44a716a77e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/eeb2e6ead715b5021220e7d1d0fec167/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/eeb2e6ead715b5021220e7d1d0fec167/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c005c5bc7d9420c32ec7aa6045680907/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c005c5bc7d9420c32ec7aa6045680907/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/0dca453af7432748ef94c856d12c0d8a/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/0dca453af7432748ef94c856d12c0d8a/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/4ac3d7584126b5ddcdbe441d54f031b0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/4ac3d7584126b5ddcdbe441d54f031b0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6fb0811a6c5d344871aa1a6dbb7fcc52/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6fb0811a6c5d344871aa1a6dbb7fcc52/AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/042f7fd4e07e43f9cfa4bb4d355f670b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/042f7fd4e07e43f9cfa4bb4d355f670b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3d07d382f85457a43bc2202eefb991f6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/3d07d382f85457a43bc2202eefb991f6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/25f750366c0a45d30b2df6297735fb7d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/25f750366c0a45d30b2df6297735fb7d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b5a470255c148ff9fb82c34e48db59d7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b5a470255c148ff9fb82c34e48db59d7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cc52d05140573e41cd1ecec56a4b985b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cc52d05140573e41cd1ecec56a4b985b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/bf402f182d8f0d871cf51a7f08193aef/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/bf402f182d8f0d871cf51a7f08193aef/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/aa5fa7e366b9b3105b44ed4bed8ec507/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/aa5fa7e366b9b3105b44ed4bed8ec507/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9973471ac68fb09f4612014edaba16a1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9973471ac68fb09f4612014edaba16a1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/d15297b4e0a611374eb480e057f913d6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/d15297b4e0a611374eb480e057f913d6/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/48762790097d3de8f418a84cde54a0bf/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/48762790097d3de8f418a84cde54a0bf/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/9361ed0b1e64d61f0b0de7b35f6cfef9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/9361ed0b1e64d61f0b0de7b35f6cfef9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/87457dfc2fb3dba12b54522ec676a72b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/87457dfc2fb3dba12b54522ec676a72b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/0359a071a512669a9a1b00362fb92cba/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/0359a071a512669a9a1b00362fb92cba/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/9a340836b107a2fa83f18076bf0b83a4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/9a340836b107a2fa83f18076bf0b83a4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/47efdd01ed5a622e095c390dc9091480/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/47efdd01ed5a622e095c390dc9091480/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/64c82348dd3e8d993c58c2eb3af0d56c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/64c82348dd3e8d993c58c2eb3af0d56c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a030b26be3359aeeafe005374d504bd8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a030b26be3359aeeafe005374d504bd8/AndroidManifest.xml:7:5-9:41
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:8:5-10:41
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:8:5-10:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/bd11397e46d2a3b840a9952cb65949ab/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/bd11397e46d2a3b840a9952cb65949ab/AndroidManifest.xml:5:5-7:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8cbeb509b83c0354cb23c00a295d11c4/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8cbeb509b83c0354cb23c00a295d11c4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a6f65f0b950254ee7b69c7b4fcd0300/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a6f65f0b950254ee7b69c7b4fcd0300/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/3298a66768094f75a758f643d3bda0a7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/3298a66768094f75a758f643d3bda0a7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/609fa5e2e696b9af0082004615e56e90/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/609fa5e2e696b9af0082004615e56e90/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:6:5-8:41
+MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:20:5-22:41
+MERGED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0ecbac22bcca4dc16d863ffd2fb7eaa7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0ecbac22bcca4dc16d863ffd2fb7eaa7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/aa474ca71feea770e1d36f245ebc7743/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/aa474ca71feea770e1d36f245ebc7743/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/bfd924d11a364f80a49c74dbb546acb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/bfd924d11a364f80a49c74dbb546acb6/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/b9040acf88d1261a14e4f15cf4de2e40/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/b9040acf88d1261a14e4f15cf4de2e40/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/cf58b9036e478076eaa80d75518194aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/cf58b9036e478076eaa80d75518194aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e851ae26e875c9451cd914218e6ab08a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e851ae26e875c9451cd914218e6ab08a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dce9adb34a57cc8e7a325af290c75a63/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dce9adb34a57cc8e7a325af290c75a63/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/4fc4d5e4b19d66f5579dce84548a2589/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/4fc4d5e4b19d66f5579dce84548a2589/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/bc241012b046ae7ee889bae4c3d48e78/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/bc241012b046ae7ee889bae4c3d48e78/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/592080c6d91a7bf6c9b3af9c829d74e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/592080c6d91a7bf6c9b3af9c829d74e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a9535671379e0f8f31337466566fb6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a9535671379e0f8f31337466566fb6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/d5b79c902f270938d84838f7987cc756/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/d5b79c902f270938d84838f7987cc756/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a569b29125df12b09222dec195ed988/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1a569b29125df12b09222dec195ed988/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/df8aa052178ae18ada817b3d2a21ed53/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/df8aa052178ae18ada817b3d2a21ed53/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7a2272419aeb436b792e970c2ddcc53f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7a2272419aeb436b792e970c2ddcc53f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/559bf139e0fce880ecf7e5f145a700d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/559bf139e0fce880ecf7e5f145a700d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/faf9d92b249272cb9d1a275f91d3960f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/faf9d92b249272cb9d1a275f91d3960f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dff4fc3f7a30e97d971fd119fcd8309e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/dff4fc3f7a30e97d971fd119fcd8309e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/29f5b431e9f768b9f64457e8342abf98/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/29f5b431e9f768b9f64457e8342abf98/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/266ccfb721c19b424d091dfce401df36/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/266ccfb721c19b424d091dfce401df36/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/57abc4b24ca6390d1c50cc5154604fb1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/57abc4b24ca6390d1c50cc5154604fb1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/948e69869ffafeaa229c6c1a89e72927/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/948e69869ffafeaa229c6c1a89e72927/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e3fd402e0195441ddc4e2c99714fa86c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e3fd402e0195441ddc4e2c99714fa86c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8038038b7ff0ee56850267102bb7c4bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8038038b7ff0ee56850267102bb7c4bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8a25d58a6f1167352a4f86b0268dc0ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8a25d58a6f1167352a4f86b0268dc0ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7f7657c6a322eb6f50e6c2308bebae75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7f7657c6a322eb6f50e6c2308bebae75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9744b779fa0c72d1bb49c3faaae331a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9744b779fa0c72d1bb49c3faaae331a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/91a7b5a34539f53c19e3b1b5e76cfc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/91a7b5a34539f53c19e3b1b5e76cfc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1f1286269eb3289b73fd986f96fc9d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1f1286269eb3289b73fd986f96fc9d5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e5befe46d7a7df0dd8e8cb09a220f9c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e5befe46d7a7df0dd8e8cb09a220f9c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7376b862b765f37340838c8f6c365a7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7376b862b765f37340838c8f6c365a7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e5841fea1569fb3d89449be714f3f072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e5841fea1569fb3d89449be714f3f072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/25f7b12d2d5580484d6df1ce9776acef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/25f7b12d2d5580484d6df1ce9776acef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2e35714dfe9af2e80ad5459c6f5b1976/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2e35714dfe9af2e80ad5459c6f5b1976/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/5b20de1e143c679cc9ee1d1c48b4aff6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/5b20de1e143c679cc9ee1d1c48b4aff6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/f707a782c386a9d76bfb7a2ebcd194d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/f707a782c386a9d76bfb7a2ebcd194d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0b7a2b0ffa1ca768b74eb86d27ff5421/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0b7a2b0ffa1ca768b74eb86d27ff5421/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/04b7e80a0fb3470e93ef552401b9fffc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/04b7e80a0fb3470e93ef552401b9fffc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8cde7da1c4bd887684066e161e7d711e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/8cde7da1c4bd887684066e161e7d711e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/206f1b09701609a00bdfe509e063d02b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/206f1b09701609a00bdfe509e063d02b/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7eb03b1a5027f4c3f29ae03e93468364/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/7eb03b1a5027f4c3f29ae03e93468364/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/5ce8f2ed4f49a6cf0e0d6ae40214d3d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/5ce8f2ed4f49a6cf0e0d6ae40214d3d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/c61d928961a026d8dd0744d7947b2155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/c61d928961a026d8dd0744d7947b2155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/271c2a7f714cee9c26e49b13eab7b8d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/271c2a7f714cee9c26e49b13eab7b8d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/fdcb3edf18f02f27eaa63db3339cb375/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/fdcb3edf18f02f27eaa63db3339cb375/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/5d4c109574af24313198e46b39c6afb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/5d4c109574af24313198e46b39c6afb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/c45ef6ed5ea5cb9d281af25269f58fd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/c45ef6ed5ea5cb9d281af25269f58fd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/639a070041f0e0fe65f712ff767c38c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/639a070041f0e0fe65f712ff767c38c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/adb9925c36b610363776cc8f9b6f2e1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/adb9925c36b610363776cc8f9b6f2e1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/6f19059cee83047243925dcc49cbf48b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/6f19059cee83047243925dcc49cbf48b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/da21cacda156550e34b2dc8b6f34d3cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/da21cacda156550e34b2dc8b6f34d3cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ea8add1049c04eb4b0d4aff0eaa9e2fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ea8add1049c04eb4b0d4aff0eaa9e2fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ebad744396ae5300a43ac6502ca227d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ebad744396ae5300a43ac6502ca227d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2c161a689fe5d726de3b08db4a8619c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2c161a689fe5d726de3b08db4a8619c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/478002ab76a0ada6e4946601aec782eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/478002ab76a0ada6e4946601aec782eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ac79231a882d5db4a34e7156f885c765/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ac79231a882d5db4a34e7156f885c765/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/94ed2b0583f0f96b210428056330f6c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/94ed2b0583f0f96b210428056330f6c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/6146f6db398476a8321d7554ba87e9e8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/6146f6db398476a8321d7554ba87e9e8/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1ff271d8cbe131fd306402ca962eda0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1ff271d8cbe131fd306402ca962eda0/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -443,6 +575,12 @@ INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifes
 		INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/romanmineyev/Spoterator/android/app/src/main/AndroidManifest.xml
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from [:@react-native-firebase_ml-vision] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/ml-vision/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [:@react-native-firebase_ml-vision] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/ml-vision/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [:@react-native-firebase_ml-vision] /Users/romanmineyev/Spoterator/node_modules/@react-native-firebase/ml-vision/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
 provider#com.imagepicker.FileProvider
 ADDED from [:react-native-image-picker] /Users/romanmineyev/Spoterator/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
@@ -495,83 +633,219 @@ ADDED from [:expo-location] /Users/romanmineyev/Spoterator/node_modules/expo-loc
 		ADDED from [:expo-location] /Users/romanmineyev/Spoterator/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
 	android:name
 		ADDED from [:expo-location] /Users/romanmineyev/Spoterator/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
-activity#net.openid.appauth.AuthorizationManagementActivity
-ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:27:9-31:75
-	android:launchMode
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:30:13-44
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:29:9-35:19
 	android:exported
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:29:13-37
-	android:theme
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:31:13-72
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:28:13-78
-activity#net.openid.appauth.RedirectUriReceiverActivity
-ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:32:9-43:20
-	android:exported
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:34:13-36
-	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:33:13-74
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
-ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:35:13-42:29
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.spoterator
-ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:35:13-42:29
-action#android.intent.action.VIEW
-ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:36:17-69
-	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:36:25-66
-category#android.intent.category.DEFAULT
-ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:38:17-76
-	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:38:27-73
-category#android.intent.category.BROWSABLE
-ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:39:17-78
-	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:39:27-75
-data
-ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:41:17-67
-	android:scheme
-		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-appauth-0.7.1.aar/afad0e9bbc04698b82fce8e164ff08f7/AndroidManifest.xml:41:23-64
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/48415284aee3872f97e86215fde51452/AndroidManifest.xml:24:13-79
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ded66042270862482d7e9be45f25bbd0/AndroidManifest.xml:23:9-25:69
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.ml.vision.VisionRegistrar
+ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:12:13-14:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ded66042270862482d7e9be45f25bbd0/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:14:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ded66042270862482d7e9be45f25bbd0/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/27ad33d4d7b184695bc6f3ae5938b777/AndroidManifest.xml:13:17-108
+meta-data#com.google.firebase.components:com.google.firebase.ml.common.CommonComponentRegistrar
+ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/e1fceec15a99135cd75679d1b152dfa3/AndroidManifest.xml:12:17-117
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:13:5-79
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/faf9d92b249272cb9d1a275f91d3960f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/faf9d92b249272cb9d1a275f91d3960f/AndroidManifest.xml:24:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:13:22-76
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/faf9d92b249272cb9d1a275f91d3960f/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/faf9d92b249272cb9d1a275f91d3960f/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/0549bf6c1de4b2df113a0815a0fbfe27/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/9c71bc86e6632c2aba85de1fb6fdb472/AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/59d4b8e4f4c2a8661a0a641f2157cc96/AndroidManifest.xml:13:13-77
+activity#net.openid.appauth.AuthorizationManagementActivity
+ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:27:9-31:75
+	android:launchMode
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:30:13-44
+	android:exported
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:31:13-72
+	android:name
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:28:13-78
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:32:9-43:20
+	android:exported
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:33:13-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
+ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:35:13-42:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.spoterator
+ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:35:13-42:29
+action#android.intent.action.VIEW
+ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:39:27-75
+data
+ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:41:17-67
+	android:scheme
+		ADDED from [net.openid:appauth:0.7.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2aa84e3340a8b5bdf8e2b5337b693d19/AndroidManifest.xml:41:23-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/2d1d0c9e63a85b7840dba6339e3e927d/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/53e5caf3d03825e4b43da9a5534f64e5/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/1e903b010250ff0ad25afee043c08edd/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/948e69869ffafeaa229c6c1a89e72927/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/948e69869ffafeaa229c6c1a89e72927/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/948e69869ffafeaa229c6c1a89e72927/AndroidManifest.xml:24:13-58
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:15:5-98
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:15:5-98
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:15:22-95
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:15:22-95
 uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:16:5-94
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:16:5-94
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:16:22-91
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:16:22-91
 service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:19:9-21:40
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:19:9-21:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:21:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:20:13-132
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:20:13-132
 service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:22:9-24:40
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:22:9-24:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:24:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:23:13-127
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:23:13-127
 service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:25:9-27:40
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:25:9-27:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:27:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/418c76e5728dd09b770d3ce2f61e811b/AndroidManifest.xml:26:13-120
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/romanmineyev/.gradle/caches/transforms-2/files-2.1/ae180eb187f6b9c8f4d82574e1a8cdc5/AndroidManifest.xml:26:13-120

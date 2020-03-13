@@ -386,9 +386,16 @@
     <string name="crop_image_menu_flip_vertically">Flip vertically</string>
     <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
     <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="default_web_client_id" translatable="false">151909426553-4mtrdk57vildfv9tnn1u3fmtu73u4m8u.apps.googleusercontent.com</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
+    <string name="firebase_database_url" translatable="false">https://spoterator-48396.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">151909426553</string>
+    <string name="google_api_key" translatable="false">AIzaSyCE7WtxPuqhHNlQvdWh4t-w7mZ3mArJvW4</string>
+    <string name="google_app_id" translatable="false">1:151909426553:android:a4bd2971aeea6bbb047ba8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCE7WtxPuqhHNlQvdWh4t-w7mZ3mArJvW4</string>
+    <string name="google_storage_bucket" translatable="false">spoterator-48396.appspot.com</string>
     <string name="header_description" translatable="false">Heading</string>
     <string name="image_description" translatable="false">Image</string>
     <string name="imagebutton_description" translatable="false">Button, Image</string>
@@ -398,6 +405,7 @@
     <string name="menuitem_description" translatable="false">Menu Item</string>
     <string name="pick_image_intent_chooser_title">Select source</string>
     <string name="progressbar_description" translatable="false">Progress Bar</string>
+    <string name="project_id" translatable="false">spoterator-48396</string>
     <string name="radiogroup_description" translatable="false">Radio Group</string>
     <string name="rn_tab_description" translatable="false">Tab</string>
     <string name="scrollbar_description" translatable="false">Scroll Bar</string>

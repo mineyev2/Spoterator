@@ -22,8 +22,8 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
-#Pods taht are too big
-FirebaseMLVisionLabelModel/
+#Not necessary pod files
+**/FirebaseMLVisionLabelModel/
 
 # Android/IntelliJ
 #

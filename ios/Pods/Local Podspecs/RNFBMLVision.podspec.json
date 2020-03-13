@@ -1,0 +1,36 @@
+{
+  "name": "RNFBMLVision",
+  "version": "6.3.4",
+  "description": "React Native Firebase - Firebase ML Kit brings the power of machine learning vision to your React Native application, supporting both Android & iOS.",
+  "summary": "A well tested feature rich Firebase implementation for React Native, supporting iOS & Android.",
+  "homepage": "http://invertase.io/oss/react-native-firebase",
+  "license": "Apache-2.0",
+  "authors": "Invertase Limited",
+  "source": {
+    "git": "https://github.com/invertase/react-native-firebase.git",
+    "tag": "v6.3.4"
+  },
+  "social_media_url": "http://twitter.com/invertaseio",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "RNFBApp": [
+
+    ],
+    "React": [
+
+    ],
+    "Firebase/Core": [
+      "~> 6.13.0"
+    ],
+    "Firebase/MLVision": [
+      "~> 6.13.0"
+    ],
+    "Firebase/MLVisionLabelModel": [
+      "~> 6.13.0"
+    ]
+  },
+  "static_framework": false
+}

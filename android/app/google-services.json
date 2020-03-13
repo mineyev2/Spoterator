@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151909426553",
+    "firebase_url": "https://spoterator-48396.firebaseio.com",
+    "project_id": "spoterator-48396",
+    "storage_bucket": "spoterator-48396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151909426553:android:a4bd2971aeea6bbb047ba8",
+        "android_client_info": {
+          "package_name": "com.spoterator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151909426553-4mtrdk57vildfv9tnn1u3fmtu73u4m8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7WtxPuqhHNlQvdWh4t-w7mZ3mArJvW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151909426553-4mtrdk57vildfv9tnn1u3fmtu73u4m8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151909426553-aj7248m8tdftnsikdv75ormt0mtgp022.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.demo.spoterator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
