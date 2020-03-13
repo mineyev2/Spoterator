@@ -16,11 +16,10 @@ const config = {
 export const output = {
   async componentDidMount() {
     try {
-      console.log("componentDidMount is running now");
         const result = await authorize(config);
-        console.log("access token: ", result.accessToken);
-        console.log("access token expiration: ", result.accessTokenExpirationDate);
-        console.log("refresh token: ", result.refreshToken);
+        //console.log("access token: ", result.accessToken);
+        //console.log("access token expiration: ", result.accessTokenExpirationDate);
+        //console.log("refresh token: ", result.refreshToken);
         return result;
         // result includes accessToken, accessTokenExpirationDate and refreshToken
     } catch (error) {

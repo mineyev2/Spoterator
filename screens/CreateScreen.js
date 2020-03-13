@@ -33,7 +33,7 @@ export default class CreateScreen extends Component {
     }
 
     _onPress = () => {
-        console.log("running function")
+        console.log("running image picker")
         ImagePicker.showImagePicker(options, (response) => {
             console.log('Response = ', response);
     

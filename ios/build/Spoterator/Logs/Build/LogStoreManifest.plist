@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>1760B8B3-D0D5-4D50-80EF-506BFCFB6208</string>
 		</dict>
+		<key>E87822E4-DF90-443C-A1F3-0C705B101A71</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E87822E4-DF90-443C-A1F3-0C705B101A71.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spoterator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spoterator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>605752333.343413</real>
+			<key>timeStoppedRecording</key>
+			<real>605752335.49916005</real>
+			<key>title</key>
+			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E87822E4-DF90-443C-A1F3-0C705B101A71</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
