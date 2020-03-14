@@ -4,6 +4,7 @@ import SpotifyWebApi from 'spotify-web-api-js';
 import { processImage } from '../Firebase'
 
 
+
 const config = {
     clientId: '0e574c577b4247858bbb6730d14ac72f', // available on the app page
     clientSecret: '2795c1cd8939436fb4f842dd82ff64e8', // click "show client secret" to see this
@@ -37,22 +38,51 @@ export const output = {
 export async function createPlaylist(source) {
   //dont really understand async functions that well
   //but have to do await for labels or else theres not enough time for the code to process in all the detected objects in the image
+
+  /*creating playlist is working
+  https://developer.spotify.com/documentation/web-api/reference/playlists/create-playlist/
+  */
+
+  var songIds = [];
+
+  const playlistOptions = {
+    "name": "howdy-doo",
+    "description": "New playlist description",
+    "public": false
+  }
+
   labels = await processImage(source);
-  console.log(labels);
-  console.log('running createPlaylist');
   var spotifyApi = new SpotifyWebApi();
   spotifyApi.setAccessToken(result.accessToken);
 
   
 
+  //have to figure out how to run all of these at once but make it so it waits for all of them to finish before continuing
   for (i = 0; i < labels.length; i++) {
-    spotifyApi.searchTracks(labels[i].text, {limit: 5})
+    console.log(labels[i].text);
+    await spotifyApi.searchTracks(labels[i].text, {limit: 5})
     .then(function(data) {
-      console.log(data.tracks);
+      console.log(data);
+      for(i = 0; i < data.tracks.items.length; i++) {
+        songIds.push(data.tracks.items[i].uri);
+      }
+      
     }, function(err) {
       console.error(err);
     });
   }
+  var userId = (await spotifyApi.getMe()).id;
 
-  spotifyApi.createPlaylist(result);
+  var playlistId;
+
+  await spotifyApi.createPlaylist(userId, playlistOptions)
+  .then(function(data) {
+    console.log("playlist id: " + data.id);
+    playlistId = data.id
+  }, function(err) {
+    console.log(err);
+  });
+
+  console.log("track ids: " + songIds);
+  spotifyApi.addTracksToPlaylist(playlistId, songIds);
 }

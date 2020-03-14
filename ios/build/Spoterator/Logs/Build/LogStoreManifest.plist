@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>6127D535-66F3-48AB-BF5F-D7D359511DC3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6127D535-66F3-48AB-BF5F-D7D359511DC3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spoterator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spoterator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>605844150.783463</real>
+			<key>timeStoppedRecording</key>
+			<real>605844152.46609497</real>
+			<key>title</key>
+			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6127D535-66F3-48AB-BF5F-D7D359511DC3</string>
+		</dict>
 		<key>E87822E4-DF90-443C-A1F3-0C705B101A71</key>
 		<dict>
 			<key>className</key>
