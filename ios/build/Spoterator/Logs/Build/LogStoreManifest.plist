@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>6127D535-66F3-48AB-BF5F-D7D359511DC3</key>
+		<key>4EACF1E4-B049-4695-92C3-F0C7062533AD</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6127D535-66F3-48AB-BF5F-D7D359511DC3.xcactivitylog</string>
+			<string>4EACF1E4-B049-4695-92C3-F0C7062533AD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,47 +32,13 @@
 			<key>signature</key>
 			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>605844150.783463</real>
+			<real>606102172.85146499</real>
 			<key>timeStoppedRecording</key>
-			<real>605844152.46609497</real>
+			<real>606102174.44866204</real>
 			<key>title</key>
 			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>6127D535-66F3-48AB-BF5F-D7D359511DC3</string>
-		</dict>
-		<key>E87822E4-DF90-443C-A1F3-0C705B101A71</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E87822E4-DF90-443C-A1F3-0C705B101A71.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Spoterator project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Spoterator</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>605752333.343413</real>
-			<key>timeStoppedRecording</key>
-			<real>605752335.49916005</real>
-			<key>title</key>
-			<string>Building workspace Spoterator with scheme Spoterator and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>E87822E4-DF90-443C-A1F3-0C705B101A71</string>
+			<string>4EACF1E4-B049-4695-92C3-F0C7062533AD</string>
 		</dict>
 	</dict>
 </dict>

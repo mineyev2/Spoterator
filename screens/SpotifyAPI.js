@@ -56,21 +56,28 @@ export async function createPlaylist(source) {
   spotifyApi.setAccessToken(result.accessToken);
 
   
-
-  //have to figure out how to run all of these at once but make it so it waits for all of them to finish before continuing
-  for (i = 0; i < labels.length; i++) {
-    console.log(labels[i].text);
-    await spotifyApi.searchTracks(labels[i].text, {limit: 5})
+  console.log(labels.length);
+  //const item of labels makes it so await
+  //can do it in parallel to make it even faster
+  //https://lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795/
+  //check the process array in parallel section
+  for (const item of labels) {
+    console.log(item.text);
+    
+    await spotifyApi.searchTracks(item.text, {limit: 5})
     .then(function(data) {
       console.log(data);
       for(i = 0; i < data.tracks.items.length; i++) {
+        console.log(data.tracks.items[i].uri);
         songIds.push(data.tracks.items[i].uri);
       }
       
     }, function(err) {
       console.error(err);
     });
+    
   }
+
   var userId = (await spotifyApi.getMe()).id;
 
   var playlistId;
@@ -83,6 +90,7 @@ export async function createPlaylist(source) {
     console.log(err);
   });
 
-  console.log("track ids: " + songIds);
+  //console.log("track ids: " + songIds);
   spotifyApi.addTracksToPlaylist(playlistId, songIds);
+  
 }
